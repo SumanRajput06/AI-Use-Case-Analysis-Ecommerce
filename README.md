@@ -55,4 +55,4 @@ python main.py
 - `customer_segments.csv` — Customer segment labels
 
 ## Author
-**Suman Rajput** ← your name
+**Suman Rajput**
