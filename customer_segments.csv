@@ -36,18 +36,18 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12388.0,16,6,2780.66,3,Champions
 12390.0,80,1,549.84,3,Champions
 12391.0,22,1,460.89,3,Champions
-12393.0,72,4,1582.6,3,Champions
+12393.0,72,4,1582.6000000000001,3,Champions
 12394.0,64,2,1272.48,3,Champions
 12395.0,19,12,3018.63,3,Champions
 12397.0,36,2,2409.9,3,Champions
-12398.0,46,1,1635.66,3,Champions
+12398.0,46,1,1635.6599999999999,3,Champions
 12399.0,119,4,1108.65,3,Champions
 12401.0,303,1,84.3,1,At Risk
 12402.0,323,1,225.6,1,At Risk
 12403.0,50,1,427.7,3,Champions
 12405.0,149,1,1710.39,1,At Risk
 12406.0,22,2,3415.3,3,Champions
-12407.0,50,5,1708.12,3,Champions
+12407.0,50,5,1708.1200000000001,3,Champions
 12408.0,33,5,2888.55,3,Champions
 12409.0,79,3,11072.67,3,Champions
 12410.0,309,2,693.3299999999999,1,At Risk
@@ -80,7 +80,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12442.0,3,1,172.06,3,Champions
 12444.0,21,5,5005.46,3,Champions
 12445.0,22,1,133.4,3,Champions
-12446.0,58,1,1002.31,3,Champions
+12446.0,58,1,1002.3100000000001,3,Champions
 12447.0,243,1,476.49,1,At Risk
 12448.0,44,1,449.45,3,Champions
 12449.0,22,4,4067.29,3,Champions
@@ -101,7 +101,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12468.0,188,2,729.5400000000001,1,At Risk
 12471.0,2,30,19824.05,0,Lost Customers
 12472.0,32,7,6572.11,3,Champions
-12473.0,29,5,3938.55,3,Champions
+12473.0,29,5,3938.5499999999997,3,Champions
 12474.0,17,18,7375.79,0,Lost Customers
 12475.0,54,1,723.38,3,Champions
 12476.0,16,11,6816.42,3,Champions
@@ -115,21 +115,21 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12488.0,10,3,1298.66,3,Champions
 12489.0,336,1,334.93,1,At Risk
 12490.0,5,10,5417.93,3,Champions
-12491.0,39,1,460.4,3,Champions
+12491.0,39,1,460.40000000000003,3,Champions
 12492.0,63,2,263.21000000000004,3,Champions
 12493.0,166,2,433.74,1,At Risk
-12494.0,16,7,1246.1,3,Champions
+12494.0,16,7,1246.1000000000001,3,Champions
 12497.0,82,1,1043.1,3,Champions
-12498.0,21,3,403.7000000000001,3,Champions
+12498.0,21,3,403.70000000000005,3,Champions
 12500.0,23,11,4257.82,3,Champions
 12501.0,337,1,2169.39,1,At Risk
 12502.0,96,5,3723.87,3,Champions
-12504.0,18,2,482.05,3,Champions
+12504.0,18,2,482.04999999999995,3,Champions
 12506.0,233,1,73.5,1,At Risk
 12507.0,134,3,1304.81,3,Champions
 12508.0,26,2,398.27,3,Champions
 12509.0,284,1,176.5,1,At Risk
-12510.0,143,2,982.57,3,Champions
+12510.0,143,2,982.5699999999999,3,Champions
 12512.0,66,2,138.03,3,Champions
 12513.0,113,1,612.29,3,Champions
 12514.0,267,1,1017.68,1,At Risk
@@ -159,19 +159,19 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12544.0,36,1,372.7,3,Champions
 12545.0,75,2,1000.39,3,Champions
 12546.0,47,2,1161.5,3,Champions
-12547.0,198,2,207.8,1,At Risk
-12548.0,166,1,95.2,1,At Risk
+12547.0,198,2,207.79999999999998,1,At Risk
+12548.0,166,1,95.19999999999999,1,At Risk
 12550.0,79,1,964.83,3,Champions
 12551.0,358,1,168.0,1,At Risk
 12552.0,39,2,437.82,3,Champions
 12553.0,8,10,3692.28,3,Champions
 12556.0,50,2,603.71,3,Champions
-12557.0,16,5,11990.96,3,Champions
+12557.0,16,5,11990.960000000001,3,Champions
 12558.0,8,1,269.96,3,Champions
 12559.0,311,2,561.71,1,At Risk
 12560.0,5,3,2134.01,3,Champions
 12561.0,303,1,238.85,1,At Risk
-12562.0,8,7,3781.74,3,Champions
+12562.0,8,7,3781.7400000000002,3,Champions
 12564.0,261,1,456.9,1,At Risk
 12565.0,289,1,145.92,1,At Risk
 12566.0,86,1,351.65,3,Champions
@@ -193,12 +193,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12585.0,234,2,2040.1,1,At Risk
 12586.0,17,1,196.94000000000003,3,Champions
 12587.0,8,1,144.0,3,Champions
-12588.0,39,1,214.9,3,Champions
+12588.0,39,1,214.89999999999998,3,Champions
 12589.0,29,2,646.68,3,Champions
 12590.0,211,2,9864.26,1,At Risk
-12591.0,317,1,452.85,1,At Risk
+12591.0,317,1,452.84999999999997,1,At Risk
 12592.0,92,2,437.6,3,Champions
-12593.0,109,3,418.1,3,Champions
+12593.0,109,3,418.09999999999997,3,Champions
 12594.0,38,10,3338.2200000000003,3,Champions
 12596.0,51,2,618.27,3,Champions
 12597.0,19,4,3811.22,3,Champions
@@ -262,9 +262,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12665.0,325,1,63.0,1,At Risk
 12667.0,58,1,620.13,3,Champions
 12668.0,12,4,3807.15,3,Champions
-12669.0,151,3,2744.03,1,At Risk
+12669.0,151,3,2744.0299999999997,1,At Risk
 12670.0,10,5,2996.05,3,Champions
-12672.0,330,1,225.9,1,At Risk
+12672.0,330,1,225.89999999999998,1,At Risk
 12673.0,5,2,610.52,3,Champions
 12674.0,39,4,1970.6,3,Champions
 12676.0,25,6,1331.39,3,Champions
@@ -277,7 +277,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12684.0,8,7,2283.63,3,Champions
 12685.0,28,6,2863.08,3,Champions
 12686.0,372,1,89.14,1,At Risk
-12688.0,114,1,4873.81,3,Champions
+12688.0,114,1,4873.8099999999995,3,Champions
 12689.0,26,2,1247.61,3,Champions
 12690.0,206,1,389.01,1,At Risk
 12691.0,28,6,1035.8,3,Champions
@@ -314,9 +314,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12728.0,71,4,836.33,3,Champions
 12729.0,114,1,453.01,3,Champions
 12731.0,24,12,18895.91,0,Lost Customers
-12732.0,180,1,236.26,1,At Risk
+12732.0,180,1,236.26000000000002,1,At Risk
 12733.0,234,1,383.95,1,At Risk
-12734.0,353,1,110.4,1,At Risk
+12734.0,353,1,110.39999999999999,1,At Risk
 12735.0,315,2,779.5699999999999,1,At Risk
 12736.0,333,1,234.0,1,At Risk
 12738.0,372,1,155.35,1,At Risk
@@ -354,18 +354,18 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12787.0,10,3,463.66,3,Champions
 12789.0,65,1,91.85,3,Champions
 12790.0,192,1,324.92,1,At Risk
-12791.0,374,1,192.6,1,At Risk
-12792.0,257,1,400.54,1,At Risk
+12791.0,374,1,192.60000000000002,1,At Risk
+12792.0,257,1,400.53999999999996,1,At Risk
 12793.0,335,2,545.48,1,At Risk
 12794.0,53,2,860.41,3,Champions
 12795.0,19,1,430.48,3,Champions
 12797.0,366,1,254.03,1,At Risk
 12798.0,10,3,6977.04,3,Champions
 12802.0,187,1,427.58,1,At Risk
-12808.0,37,3,483.65,3,Champions
+12808.0,37,3,483.65000000000003,3,Champions
 12809.0,178,1,489.31,1,At Risk
 12811.0,261,3,514.85,1,At Risk
-12812.0,45,1,229.64,3,Champions
+12812.0,45,1,229.64000000000001,3,Champions
 12814.0,102,1,125.92,3,Champions
 12815.0,148,2,1063.46,1,At Risk
 12816.0,96,2,572.2,3,Champions
@@ -377,7 +377,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12823.0,75,5,1759.5,3,Champions
 12824.0,60,1,397.12,3,Champions
 12826.0,3,7,1474.72,3,Champions
-12827.0,6,3,430.15,3,Champions
+12827.0,6,3,430.15000000000003,3,Champions
 12828.0,3,6,1018.71,3,Champions
 12829.0,337,2,293.0,1,At Risk
 12830.0,38,6,6814.64,3,Champions
@@ -396,10 +396,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12844.0,29,2,325.96000000000004,3,Champions
 12845.0,267,4,354.09,1,At Risk
 12847.0,22,1,871.54,3,Champions
-12849.0,31,2,1050.89,3,Champions
+12849.0,31,2,1050.8899999999999,3,Champions
 12851.0,97,1,135.18,3,Champions
 12852.0,295,1,311.55,1,At Risk
-12853.0,135,6,1957.1,3,Champions
+12853.0,135,6,1957.1000000000001,3,Champions
 12854.0,79,3,1324.5,3,Champions
 12855.0,373,1,38.1,1,At Risk
 12856.0,8,6,2179.93,3,Champions
@@ -425,7 +425,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12885.0,63,3,1175.22,3,Champions
 12886.0,68,2,1378.4,3,Champions
 12888.0,214,2,354.12,1,At Risk
-12890.0,24,1,380.47,3,Champions
+12890.0,24,1,380.46999999999997,3,Champions
 12891.0,186,3,331.0,1,At Risk
 12893.0,31,1,188.14,3,Champions
 12895.0,42,2,372.8,3,Champions
@@ -483,9 +483,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12971.0,4,86,11189.91,0,Lost Customers
 12974.0,198,1,144.8,1,At Risk
 12976.0,212,1,738.6,1,At Risk
-12977.0,156,1,39.24,1,At Risk
+12977.0,156,1,39.239999999999995,1,At Risk
 12980.0,158,9,7374.900000000001,3,Champions
-12981.0,30,2,372.22,3,Champions
+12981.0,30,2,372.21999999999997,3,Champions
 12982.0,243,1,390.54,1,At Risk
 12984.0,19,1,97.5,3,Champions
 12985.0,1,2,1239.38,3,Champions
@@ -495,22 +495,22 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 12990.0,31,3,409.5,3,Champions
 12991.0,23,2,503.76,3,Champions
 12993.0,23,4,414.76,3,Champions
-12994.0,4,3,974.42,3,Champions
+12994.0,4,3,974.4200000000001,3,Champions
 12995.0,85,1,211.32,3,Champions
 12997.0,22,4,1226.89,3,Champions
 12999.0,196,3,455.88,1,At Risk
 13000.0,107,3,534.85,3,Champions
 13001.0,4,13,9818.82,0,Lost Customers
-13002.0,318,1,120.95,1,At Risk
+13002.0,318,1,120.94999999999999,1,At Risk
 13003.0,106,3,149.05,3,Champions
 13004.0,12,18,5655.91,0,Lost Customers
 13005.0,174,2,513.7,1,At Risk
 13006.0,56,1,81.57,3,Champions
-13008.0,323,1,229.47,1,At Risk
-13011.0,372,1,50.55,1,At Risk
-13012.0,9,8,1661.84,3,Champions
+13008.0,323,1,229.46999999999997,1,At Risk
+13011.0,372,1,50.550000000000004,1,At Risk
+13012.0,9,8,1661.8400000000001,3,Champions
 13013.0,1,13,4810.9400000000005,3,Champions
-13014.0,11,10,3466.28,3,Champions
+13014.0,11,10,3466.2799999999997,3,Champions
 13015.0,53,5,3346.28,3,Champions
 13016.0,73,3,789.89,3,Champions
 13017.0,7,1,204.0,3,Champions
@@ -547,7 +547,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13064.0,13,4,1119.49,3,Champions
 13065.0,373,1,205.86,1,At Risk
 13066.0,24,2,470.8,3,Champions
-13067.0,82,1,115.46,3,Champions
+13067.0,82,1,115.46000000000001,3,Champions
 13068.0,10,2,344.0,3,Champions
 13069.0,1,24,4436.12,0,Lost Customers
 13070.0,192,1,228.8,1,At Risk
@@ -555,37 +555,37 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13075.0,130,1,919.61,3,Champions
 13077.0,1,4,729.27,3,Champions
 13078.0,3,26,12627.94,0,Lost Customers
-13079.0,4,5,220.1,3,Champions
+13079.0,4,5,220.10000000000002,3,Champions
 13080.0,179,1,58.08,1,At Risk
 13081.0,12,11,28337.38,0,Lost Customers
 13082.0,126,9,3613.63,3,Champions
 13083.0,4,2,303.75,3,Champions
-13085.0,158,2,416.08,1,At Risk
+13085.0,158,2,416.08000000000004,1,At Risk
 13089.0,3,97,58825.83,2,Loyal Customers
 13090.0,9,14,8910.82,0,Lost Customers
 13091.0,28,1,345.82,3,Champions
 13092.0,71,5,477.83,3,Champions
 13093.0,276,8,7832.47,1,At Risk
-13094.0,21,12,1927.32,3,Champions
+13094.0,21,12,1927.3200000000002,3,Champions
 13095.0,71,1,74.39999999999999,3,Champions
 13097.0,33,10,6010.42,3,Champions
 13098.0,1,28,28882.44,0,Lost Customers
-13099.0,99,1,207.36,3,Champions
+13099.0,99,1,207.35999999999999,3,Champions
 13101.0,234,1,101.19,1,At Risk
 13102.0,1,24,6424.09,0,Lost Customers
 13103.0,40,1,243.94,3,Champions
 13104.0,3,6,1098.48,3,Champions
 13106.0,133,1,76.5,3,Champions
-13107.0,44,4,1531.62,3,Champions
+13107.0,44,4,1531.6200000000001,3,Champions
 13108.0,373,1,350.06,1,At Risk
 13109.0,60,2,786.54,3,Champions
 13110.0,31,7,1488.67,3,Champions
-13113.0,1,24,12245.96,0,Lost Customers
+13113.0,1,24,12245.960000000001,0,Lost Customers
 13115.0,12,4,2294.78,3,Champions
 13116.0,138,1,501.14,3,Champions
 13117.0,22,8,984.91,3,Champions
 13118.0,20,5,1197.81,3,Champions
-13120.0,239,1,30.6,1,At Risk
+13120.0,239,1,30.599999999999998,1,At Risk
 13121.0,269,1,283.73,1,At Risk
 13122.0,94,2,922.39,3,Champions
 13124.0,90,3,3866.33,3,Champions
@@ -610,7 +610,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13147.0,10,4,712.8000000000001,3,Champions
 13148.0,29,12,3707.12,3,Champions
 13149.0,14,4,1676.06,3,Champions
-13151.0,296,1,1257.87,1,At Risk
+13151.0,296,1,1257.8700000000001,1,At Risk
 13153.0,6,1,486.22,3,Champions
 13155.0,33,4,971.76,3,Champions
 13157.0,49,4,1741.22,3,Champions
@@ -624,7 +624,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13167.0,19,4,791.33,3,Champions
 13168.0,36,4,1319.19,3,Champions
 13169.0,64,2,712.88,3,Champions
-13170.0,27,1,116.01,3,Champions
+13170.0,27,1,116.00999999999999,3,Champions
 13171.0,22,3,468.41,3,Champions
 13173.0,4,2,353.65,3,Champions
 13174.0,16,3,2817.03,3,Champions
@@ -637,17 +637,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13185.0,268,1,71.4,1,At Risk
 13186.0,40,3,1575.89,3,Champions
 13187.0,337,1,236.02,1,At Risk
-13188.0,11,1,114.6,3,Champions
+13188.0,11,1,114.60000000000001,3,Champions
 13189.0,19,2,260.68,3,Champions
 13192.0,95,2,911.94,3,Champions
 13193.0,61,1,117.88,3,Champions
 13194.0,136,1,60.7,3,Champions
 13196.0,11,4,1797.78,3,Champions
-13198.0,10,6,3401.24,3,Champions
+13198.0,10,6,3401.2400000000002,3,Champions
 13199.0,4,38,9817.12,0,Lost Customers
 13200.0,19,4,870.09,3,Champions
 13203.0,10,4,869.46,3,Champions
-13207.0,15,2,250.26,3,Champions
+13207.0,15,2,250.26000000000002,3,Champions
 13208.0,59,6,1223.9,3,Champions
 13209.0,30,8,5891.61,3,Champions
 13210.0,94,1,353.48,3,Champions
@@ -662,7 +662,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13223.0,200,2,163.20000000000002,1,At Risk
 13224.0,60,2,2155.95,3,Champions
 13225.0,3,7,6463.84,3,Champions
-13226.0,273,1,108.21,1,At Risk
+13226.0,273,1,108.21000000000001,1,At Risk
 13227.0,202,1,257.7,1,At Risk
 13228.0,81,1,358.0,3,Champions
 13229.0,226,1,160.95,1,At Risk
@@ -676,7 +676,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13240.0,96,4,663.65,3,Champions
 13242.0,112,3,270.40000000000003,3,Champions
 13243.0,203,1,600.07,1,At Risk
-13244.0,93,1,121.74,3,Champions
+13244.0,93,1,121.74000000000001,3,Champions
 13245.0,51,1,430.5,3,Champions
 13246.0,18,6,1987.3,3,Champions
 13247.0,18,4,501.12,3,Champions
@@ -692,7 +692,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13262.0,263,1,200.29,1,At Risk
 13263.0,1,35,7454.07,0,Lost Customers
 13265.0,53,5,2107.66,3,Champions
-13266.0,11,12,3834.26,3,Champions
+13266.0,11,12,3834.2599999999998,3,Champions
 13267.0,3,19,4521.49,0,Lost Customers
 13268.0,18,11,3214.69,3,Champions
 13269.0,1,15,5346.2300000000005,0,Lost Customers
@@ -712,7 +712,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13291.0,156,1,361.11,1,At Risk
 13292.0,39,2,578.9399999999999,3,Champions
 13294.0,190,2,873.74,1,At Risk
-13295.0,360,1,201.2,1,At Risk
+13295.0,360,1,201.20000000000002,1,At Risk
 13296.0,137,1,87.4,3,Champions
 13297.0,8,4,2089.85,3,Champions
 13298.0,1,1,360.0,3,Champions
@@ -732,10 +732,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13316.0,37,4,5977.7300000000005,3,Champions
 13317.0,66,6,2273.68,3,Champions
 13318.0,1,3,640.76,3,Champions
-13319.0,5,26,10845.55,0,Lost Customers
+13319.0,5,26,10845.550000000001,0,Lost Customers
 13320.0,78,4,1548.7,3,Champions
 13321.0,72,2,567.36,3,Champions
-13322.0,17,1,199.48,3,Champions
+13322.0,17,1,199.48000000000002,3,Champions
 13323.0,3,5,787.85,3,Champions
 13324.0,36,10,7121.95,3,Champions
 13325.0,82,1,675.3,3,Champions
@@ -758,18 +758,18 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13349.0,11,1,247.32,3,Champions
 13350.0,16,2,979.12,3,Champions
 13351.0,66,1,373.94,3,Champions
-13352.0,60,1,397.98,3,Champions
+13352.0,60,1,397.97999999999996,3,Champions
 13354.0,71,1,743.53,3,Champions
 13355.0,122,1,674.7,3,Champions
 13356.0,80,1,768.24,3,Champions
 13357.0,257,1,609.95,1,At Risk
 13358.0,269,1,439.03,1,At Risk
 13359.0,64,1,439.56,3,Champions
-13362.0,9,4,3090.74,3,Champions
+13362.0,9,4,3090.7400000000002,3,Champions
 13363.0,18,2,992.5,3,Champions
 13364.0,71,1,134.95999999999998,3,Champions
 13365.0,34,2,2225.37,3,Champions
-13366.0,50,1,56.16,3,Champions
+13366.0,50,1,56.160000000000004,3,Champions
 13368.0,257,2,623.4,1,At Risk
 13369.0,366,1,308.28000000000003,1,At Risk
 13370.0,372,1,754.87,1,At Risk
@@ -814,7 +814,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13430.0,19,2,679.45,3,Champions
 13431.0,67,2,1269.1,3,Champions
 13434.0,74,2,534.24,3,Champions
-13435.0,5,7,3809.89,3,Champions
+13435.0,5,7,3809.8900000000003,3,Champions
 13436.0,2,1,196.89,3,Champions
 13437.0,14,7,3408.06,3,Champions
 13439.0,255,1,283.71,1,At Risk
@@ -822,10 +822,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13447.0,23,3,1129.14,3,Champions
 13448.0,17,6,3539.37,3,Champions
 13449.0,24,1,291.88,3,Champions
-13450.0,27,6,2043.72,3,Champions
+13450.0,27,6,2043.7199999999998,3,Champions
 13451.0,26,5,2976.15,3,Champions
 13452.0,259,2,590.0,1,At Risk
-13453.0,166,2,356.98,1,At Risk
+13453.0,166,2,356.97999999999996,1,At Risk
 13455.0,25,2,1058.34,3,Champions
 13456.0,18,6,1766.72,3,Champions
 13458.0,7,14,9646.57,0,Lost Customers
@@ -857,7 +857,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13492.0,136,3,1269.84,3,Champions
 13493.0,275,2,618.63,1,At Risk
 13494.0,312,1,316.26000000000005,1,At Risk
-13495.0,8,5,2044.87,3,Champions
+13495.0,8,5,2044.8700000000001,3,Champions
 13496.0,11,2,653.33,3,Champions
 13497.0,283,2,348.05,1,At Risk
 13499.0,18,5,1159.11,3,Champions
@@ -882,7 +882,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13519.0,78,1,122.75,3,Champions
 13520.0,59,6,3624.35,3,Champions
 13521.0,1,3,1093.65,3,Champions
-13522.0,30,1,125.8,3,Champions
+13522.0,30,1,125.80000000000001,3,Champions
 13523.0,33,5,3964.88,3,Champions
 13524.0,41,5,680.1800000000001,3,Champions
 13525.0,15,2,628.78,3,Champions
@@ -899,13 +899,13 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13546.0,12,3,626.99,3,Champions
 13548.0,96,2,682.41,3,Champions
 13549.0,26,7,918.2,3,Champions
-13551.0,319,1,91.8,1,At Risk
+13551.0,319,1,91.80000000000001,1,At Risk
 13552.0,66,12,3740.07,3,Champions
 13555.0,74,4,4149.28,3,Champions
 13557.0,28,2,584.06,3,Champions
 13558.0,6,4,605.06,3,Champions
 13560.0,7,1,174.37,3,Champions
-13561.0,216,1,141.86,1,At Risk
+13561.0,216,1,141.85999999999999,1,At Risk
 13562.0,82,3,1799.33,3,Champions
 13563.0,84,2,777.53,3,Champions
 13564.0,144,3,1749.02,3,Champions
@@ -919,7 +919,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13573.0,50,2,294.4,3,Champions
 13575.0,23,5,732.0699999999999,3,Champions
 13576.0,10,18,6717.34,0,Lost Customers
-13577.0,25,4,1687.6,3,Champions
+13577.0,25,4,1687.6000000000001,3,Champions
 13579.0,15,2,467.04,3,Champions
 13581.0,309,1,118.0,1,At Risk
 13583.0,156,1,781.03,1,At Risk
@@ -929,17 +929,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13589.0,15,2,379.65,3,Champions
 13590.0,11,6,1981.92,3,Champions
 13591.0,65,3,1117.13,3,Champions
-13592.0,36,4,247.96,3,Champions
-13593.0,108,5,2037.08,3,Champions
+13592.0,36,4,247.95999999999998,3,Champions
+13593.0,108,5,2037.0800000000002,3,Champions
 13594.0,53,1,396.97,3,Champions
 13596.0,6,2,697.04,3,Champions
-13598.0,47,1,180.17,3,Champions
+13598.0,47,1,180.17000000000002,3,Champions
 13599.0,1,21,5153.67,0,Lost Customers
 13600.0,312,1,219.52,1,At Risk
 13601.0,45,2,693.32,3,Champions
 13602.0,65,1,428.89,3,Champions
 13603.0,26,1,164.34,3,Champions
-13606.0,29,3,280.54,3,Champions
+13606.0,29,3,280.53999999999996,3,Champions
 13607.0,40,1,678.01,3,Champions
 13610.0,12,7,1131.88,3,Champions
 13611.0,89,3,1171.8,3,Champions
@@ -965,7 +965,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13643.0,31,3,519.44,3,Champions
 13644.0,16,4,2624.26,3,Champions
 13645.0,120,1,252.1,3,Champions
-13647.0,10,4,1678.12,3,Champions
+13647.0,10,4,1678.1200000000001,3,Champions
 13649.0,257,2,346.6,1,At Risk
 13650.0,17,6,1836.34,3,Champions
 13651.0,35,2,94.2,3,Champions
@@ -983,9 +983,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13668.0,3,21,6363.59,0,Lost Customers
 13669.0,51,2,218.55,3,Champions
 13670.0,75,1,349.7,3,Champions
-13672.0,301,2,186.39,1,At Risk
+13672.0,301,2,186.39000000000001,1,At Risk
 13673.0,19,2,396.92,3,Champions
-13675.0,151,2,486.8200000000001,1,At Risk
+13675.0,151,2,486.82000000000005,1,At Risk
 13678.0,152,1,232.6,1,At Risk
 13680.0,1,4,3722.42,3,Champions
 13681.0,18,4,827.83,3,Champions
@@ -1019,17 +1019,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13720.0,117,4,799.9,3,Champions
 13721.0,36,1,524.14,3,Champions
 13722.0,132,3,2375.41,3,Champions
-13723.0,217,1,199.85,1,At Risk
+13723.0,217,1,199.85000000000002,1,At Risk
 13725.0,50,8,1980.56,3,Champions
-13726.0,39,2,1079.66,3,Champions
+13726.0,39,2,1079.6599999999999,3,Champions
 13727.0,29,2,333.48,3,Champions
 13728.0,37,6,1016.14,3,Champions
 13730.0,136,2,752.6,3,Champions
 13731.0,219,2,610.59,1,At Risk
 13732.0,28,1,491.86,3,Champions
-13735.0,25,4,2885.24,3,Champions
+13735.0,25,4,2885.2400000000002,3,Champions
 13736.0,5,2,731.9,3,Champions
-13737.0,200,1,339.6,1,At Risk
+13737.0,200,1,339.59999999999997,1,At Risk
 13739.0,18,1,216.9,3,Champions
 13740.0,241,1,350.75,1,At Risk
 13741.0,72,3,668.4300000000001,3,Champions
@@ -1043,7 +1043,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13751.0,288,1,296.25,1,At Risk
 13752.0,124,6,1186.28,3,Champions
 13753.0,288,1,741.26,1,At Risk
-13754.0,152,2,282.6,1,At Risk
+13754.0,152,2,282.59999999999997,1,At Risk
 13755.0,4,9,2161.35,3,Champions
 13756.0,2,14,5189.52,0,Lost Customers
 13758.0,12,7,3190.55,3,Champions
@@ -1064,7 +1064,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13781.0,251,1,127.84,1,At Risk
 13782.0,13,6,912.0,3,Champions
 13784.0,10,11,2462.79,3,Champions
-13786.0,367,1,230.4,1,At Risk
+13786.0,367,1,230.39999999999998,1,At Risk
 13787.0,76,2,309.04,3,Champions
 13790.0,4,1,348.8,3,Champions
 13791.0,128,2,1516.0,3,Champions
@@ -1084,7 +1084,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13810.0,29,3,1499.01,3,Champions
 13811.0,184,3,814.5,1,At Risk
 13812.0,42,3,539.0,3,Champions
-13813.0,40,4,1366.86,3,Champions
+13813.0,40,4,1366.8600000000001,3,Champions
 13814.0,92,2,1579.12,3,Champions
 13815.0,22,4,4027.36,3,Champions
 13816.0,24,2,571.6700000000001,3,Champions
@@ -1098,7 +1098,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13827.0,58,3,412.05,3,Champions
 13828.0,22,1,209.49,3,Champions
 13831.0,16,6,2202.99,3,Champions
-13832.0,19,1,52.2,3,Champions
+13832.0,19,1,52.199999999999996,3,Champions
 13833.0,159,1,384.8,1,At Risk
 13835.0,25,4,834.57,3,Champions
 13837.0,212,2,271.24,1,At Risk
@@ -1113,7 +1113,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13850.0,129,1,1595.48,3,Champions
 13851.0,96,3,2651.46,3,Champions
 13853.0,57,1,1090.14,3,Champions
-13854.0,9,25,8109.519999999999,0,Lost Customers
+13854.0,9,25,8109.5199999999995,0,Lost Customers
 13856.0,169,3,388.5,1,At Risk
 13858.0,57,1,216.17,3,Champions
 13859.0,326,1,201.16,1,At Risk
@@ -1142,8 +1142,8 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13886.0,71,1,243.56,3,Champions
 13887.0,204,1,349.55,1,At Risk
 13888.0,120,2,605.63,3,Champions
-13889.0,93,1,416.9,3,Champions
-13890.0,1,10,1883.81,3,Champions
+13889.0,93,1,416.90000000000003,3,Champions
+13890.0,1,10,1883.8100000000002,3,Champions
 13892.0,27,4,632.97,3,Champions
 13893.0,298,1,821.1,1,At Risk
 13894.0,24,3,564.62,3,Champions
@@ -1158,13 +1158,13 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13911.0,57,9,2580.91,3,Champions
 13914.0,12,2,626.45,3,Champions
 13917.0,50,2,272.04,3,Champions
-13918.0,50,2,1212.84,3,Champions
+13918.0,50,2,1212.8400000000001,3,Champions
 13919.0,59,2,384.81,3,Champions
 13922.0,352,1,172.25,1,At Risk
 13923.0,54,1,351.13,3,Champions
-13924.0,2,6,1838.85,3,Champions
+13924.0,2,6,1838.8500000000001,3,Champions
 13925.0,93,4,678.25,3,Champions
-13926.0,23,1,223.85,3,Champions
+13926.0,23,1,223.85000000000002,3,Champions
 13927.0,75,1,348.99,3,Champions
 13928.0,11,4,464.57,3,Champions
 13929.0,169,2,842.65,1,At Risk
@@ -1199,10 +1199,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13971.0,19,8,2758.26,3,Champions
 13972.0,71,2,190.25,3,Champions
 13973.0,287,1,264.7,1,At Risk
-13974.0,49,1,413.59,3,Champions
+13974.0,49,1,413.59000000000003,3,Champions
 13975.0,31,6,2526.28,3,Champions
 13976.0,207,1,357.98,1,At Risk
-13978.0,15,2,196.79,3,Champions
+13978.0,15,2,196.79000000000002,3,Champions
 13979.0,73,1,869.87,3,Champions
 13980.0,60,1,200.14,3,Champions
 13982.0,39,4,1871.81,3,Champions
@@ -1220,7 +1220,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 13995.0,15,5,1393.69,3,Champions
 13999.0,10,12,3901.81,3,Champions
 14000.0,211,1,635.66,1,At Risk
-14001.0,46,3,2043.08,3,Champions
+14001.0,46,3,2043.0800000000002,3,Champions
 14002.0,134,2,529.73,3,Champions
 14004.0,43,7,4582.64,3,Champions
 14005.0,10,5,2874.72,3,Champions
@@ -1253,11 +1253,11 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14044.0,27,4,652.82,3,Champions
 14045.0,109,4,1659.75,3,Champions
 14046.0,284,1,154.99,1,At Risk
-14047.0,9,5,1308.61,3,Champions
+14047.0,9,5,1308.6100000000001,3,Champions
 14048.0,305,1,409.93,1,At Risk
 14049.0,17,4,5681.72,3,Champions
 14050.0,32,2,746.36,3,Champions
-14051.0,1,23,15610.39,0,Lost Customers
+14051.0,1,23,15610.390000000001,0,Lost Customers
 14052.0,20,1,225.36,3,Champions
 14053.0,124,2,260.25,3,Champions
 14054.0,65,1,92.46,3,Champions
@@ -1275,10 +1275,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14073.0,32,1,151.04,3,Champions
 14075.0,5,3,942.26,3,Champions
 14076.0,129,1,122.47,3,Champions
-14077.0,41,5,499.42,3,Champions
+14077.0,41,5,499.41999999999996,3,Champions
 14078.0,102,6,1049.37,3,Champions
 14079.0,125,1,375.1,3,Champions
-14080.0,33,1,45.6,3,Champions
+14080.0,33,1,45.599999999999994,3,Champions
 14081.0,302,2,934.52,1,At Risk
 14082.0,365,1,182.25,1,At Risk
 14083.0,4,9,1018.43,3,Champions
@@ -1295,7 +1295,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14100.0,138,1,194.9,3,Champions
 14101.0,74,6,5976.79,3,Champions
 14102.0,5,5,1360.28,3,Champions
-14104.0,155,2,216.21,1,At Risk
+14104.0,155,2,216.20999999999998,1,At Risk
 14105.0,239,1,1266.23,1,At Risk
 14107.0,52,7,2703.23,3,Champions
 14108.0,31,2,597.91,3,Champions
@@ -1308,17 +1308,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14116.0,20,5,1382.74,3,Champions
 14117.0,144,1,90.0,1,At Risk
 14121.0,4,4,2780.15,3,Champions
-14124.0,84,1,419.58,3,Champions
+14124.0,84,1,419.58000000000004,3,Champions
 14125.0,11,3,2740.43,3,Champions
 14126.0,8,3,706.1300000000001,3,Champions
 14127.0,123,3,709.71,3,Champions
 14128.0,61,2,637.5,3,Champions
-14129.0,2,5,1123.86,3,Champions
+14129.0,2,5,1123.8600000000001,3,Champions
 14130.0,319,1,483.86,1,At Risk
-14132.0,2,11,3586.03,3,Champions
+14132.0,2,11,3586.0299999999997,3,Champions
 14133.0,130,3,605.64,3,Champions
 14135.0,2,15,4690.31,0,Lost Customers
-14138.0,2,2,982.38,3,Champions
+14138.0,2,2,982.3800000000001,3,Champions
 14139.0,46,1,415.82,3,Champions
 14140.0,4,2,935.05,3,Champions
 14141.0,3,4,915.13,3,Champions
@@ -1341,7 +1341,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14162.0,174,2,289.36,1,At Risk
 14163.0,87,4,2445.91,3,Champions
 14164.0,71,2,1631.77,3,Champions
-14165.0,276,1,122.54,1,At Risk
+14165.0,276,1,122.53999999999999,1,At Risk
 14167.0,39,4,574.84,3,Champions
 14171.0,98,1,363.79,3,Champions
 14173.0,11,4,450.84,3,Champions
@@ -1362,14 +1362,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14195.0,202,2,1012.0,1,At Risk
 14196.0,107,1,335.52,3,Champions
 14198.0,18,4,701.4,3,Champions
-14199.0,218,1,185.4,1,At Risk
+14199.0,218,1,185.39999999999998,1,At Risk
 14201.0,60,7,747.44,3,Champions
 14204.0,2,1,161.03,3,Champions
 14205.0,17,2,466.7,3,Champions
-14206.0,239,1,328.16,1,At Risk
+14206.0,239,1,328.15999999999997,1,At Risk
 14208.0,95,1,151.74,3,Champions
 14209.0,11,6,2073.43,3,Champions
-14210.0,106,6,1905.84,3,Champions
+14210.0,106,6,1905.8400000000001,3,Champions
 14211.0,53,9,2241.1,3,Champions
 14212.0,90,1,1070.48,3,Champions
 14214.0,31,5,1004.38,3,Champions
@@ -1396,7 +1396,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14238.0,326,1,146.85,1,At Risk
 14239.0,43,11,2380.85,3,Champions
 14240.0,30,2,890.34,3,Champions
-14241.0,184,1,213.7,1,At Risk
+14241.0,184,1,213.70000000000002,1,At Risk
 14242.0,235,2,280.55,1,At Risk
 14243.0,9,10,2588.77,3,Champions
 14245.0,220,2,1693.45,1,At Risk
@@ -1405,7 +1405,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14248.0,318,1,302.58,1,At Risk
 14250.0,7,3,1904.05,3,Champions
 14251.0,2,5,2879.7000000000003,3,Champions
-14256.0,260,2,969.06,1,At Risk
+14256.0,260,2,969.0600000000001,1,At Risk
 14257.0,64,5,3099.7200000000003,3,Champions
 14258.0,9,9,12669.98,3,Champions
 14259.0,142,1,120.0,3,Champions
@@ -1414,7 +1414,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14264.0,155,2,333.97,1,At Risk
 14265.0,109,2,530.18,3,Champions
 14267.0,163,3,1516.24,1,At Risk
-14270.0,332,1,492.65,1,At Risk
+14270.0,332,1,492.65000000000003,1,At Risk
 14271.0,226,1,112.32,1,At Risk
 14272.0,74,2,437.96,3,Champions
 14273.0,51,4,559.97,3,Champions
@@ -1447,14 +1447,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14312.0,47,6,1611.59,3,Champions
 14314.0,107,1,120.0,3,Champions
 14315.0,45,6,2481.13,3,Champions
-14317.0,65,1,508.58,3,Champions
+14317.0,65,1,508.58000000000004,3,Champions
 14320.0,207,2,477.79,1,At Risk
 14321.0,11,5,1530.75,3,Champions
 14323.0,115,2,605.0600000000001,3,Champions
 14326.0,242,1,183.85,1,At Risk
 14327.0,163,1,311.65,1,At Risk
 14329.0,17,7,5014.84,3,Champions
-14331.0,124,2,462.66,3,Champions
+14331.0,124,2,462.65999999999997,3,Champions
 14332.0,23,3,866.31,3,Champions
 14333.0,68,1,415.2,3,Champions
 14334.0,17,8,2552.21,3,Champions
@@ -1466,7 +1466,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14341.0,45,8,2182.28,3,Champions
 14342.0,21,4,668.5600000000001,3,Champions
 14344.0,127,8,889.9300000000001,3,Champions
-14345.0,39,1,108.98,3,Champions
+14345.0,39,1,108.97999999999999,3,Champions
 14346.0,121,2,1021.58,3,Champions
 14348.0,260,1,409.57,1,At Risk
 14349.0,10,1,133.5,3,Champions
@@ -1525,7 +1525,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14423.0,218,1,265.2,1,At Risk
 14424.0,18,1,322.08,3,Champions
 14426.0,24,10,4481.67,3,Champions
-14427.0,50,2,363.34,3,Champions
+14427.0,50,2,363.34000000000003,3,Champions
 14428.0,7,5,1244.83,3,Champions
 14431.0,303,1,470.36,1,At Risk
 14432.0,10,6,2255.51,3,Champions
@@ -1553,7 +1553,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14461.0,148,3,2103.06,1,At Risk
 14462.0,66,11,2004.02,3,Champions
 14463.0,98,3,529.62,3,Champions
-14465.0,247,3,1058.62,1,At Risk
+14465.0,247,3,1058.6200000000001,1,At Risk
 14466.0,29,7,2272.4,3,Champions
 14467.0,18,4,598.76,3,Champions
 14470.0,12,2,461.19,3,Champions
@@ -1574,7 +1574,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14488.0,68,1,1064.28,3,Champions
 14489.0,207,1,463.38,1,At Risk
 14491.0,175,2,340.93,1,At Risk
-14493.0,7,5,2383.24,3,Champions
+14493.0,7,5,2383.2400000000002,3,Champions
 14494.0,26,1,139.56,3,Champions
 14495.0,51,2,123.8,3,Champions
 14496.0,312,2,538.8100000000001,1,At Risk
@@ -1592,7 +1592,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14508.0,22,2,276.42,3,Champions
 14511.0,11,5,1314.81,3,Champions
 14512.0,188,2,275.28,1,At Risk
-14513.0,101,3,455.59,3,Champions
+14513.0,101,3,455.59000000000003,3,Champions
 14514.0,61,3,1055.35,3,Champions
 14515.0,18,6,2102.09,3,Champions
 14517.0,33,2,330.45,3,Champions
@@ -1603,7 +1603,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14524.0,32,9,1867.68,3,Champions
 14525.0,20,9,4332.2,3,Champions
 14527.0,3,55,8508.82,0,Lost Customers
-14528.0,37,1,364.22,3,Champions
+14528.0,37,1,364.21999999999997,3,Champions
 14529.0,60,3,620.04,3,Champions
 14530.0,26,6,2925.91,3,Champions
 14532.0,236,4,932.85,1,At Risk
@@ -1635,7 +1635,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14562.0,4,18,5074.77,0,Lost Customers
 14565.0,96,4,3099.12,3,Champions
 14566.0,111,1,1432.0,3,Champions
-14567.0,57,2,1530.36,3,Champions
+14567.0,57,2,1530.3600000000001,3,Champions
 14569.0,1,1,227.39,3,Champions
 14570.0,281,2,218.06,1,At Risk
 14572.0,3,7,2832.84,3,Champions
@@ -1658,18 +1658,18 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14595.0,20,6,1740.6,3,Champions
 14597.0,11,2,883.15,3,Champions
 14598.0,44,1,221.97,3,Champions
-14600.0,306,1,393.33,1,At Risk
+14600.0,306,1,393.33000000000004,1,At Risk
 14601.0,11,1,213.96,3,Champions
 14603.0,275,1,660.0,1,At Risk
 14606.0,1,93,12156.65,0,Lost Customers
 14607.0,16,14,16569.5,0,Lost Customers
 14608.0,4,4,1785.15,3,Champions
 14609.0,72,4,601.56,3,Champions
-14616.0,243,3,406.08,1,At Risk
+14616.0,243,3,406.08000000000004,1,At Risk
 14618.0,9,3,553.44,3,Champions
 14619.0,246,1,394.44,1,At Risk
-14620.0,206,2,412.78,1,At Risk
-14621.0,1,5,1788.36,3,Champions
+14620.0,206,2,412.78000000000003,1,At Risk
+14621.0,1,5,1788.3600000000001,3,Champions
 14622.0,185,1,320.58000000000004,1,At Risk
 14623.0,32,5,889.25,3,Champions
 14624.0,57,2,225.85,3,Champions
@@ -1712,7 +1712,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14672.0,235,2,765.55,1,At Risk
 14673.0,3,5,1736.4,3,Champions
 14675.0,16,1,604.75,3,Champions
-14676.0,31,6,2548.24,3,Champions
+14676.0,31,6,2548.2400000000002,3,Champions
 14680.0,25,16,28754.11,0,Lost Customers
 14681.0,71,3,498.95,3,Champions
 14682.0,188,2,52.0,1,At Risk
@@ -1725,9 +1725,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14692.0,137,4,591.55,3,Champions
 14693.0,265,1,172.9,1,At Risk
 14696.0,4,7,2078.95,3,Champions
-14697.0,218,2,188.61,1,At Risk
+14697.0,218,2,188.60999999999999,1,At Risk
 14698.0,2,5,1250.76,3,Champions
-14699.0,214,1,109.13,1,At Risk
+14699.0,214,1,109.13000000000001,1,At Risk
 14700.0,32,3,2235.3,3,Champions
 14701.0,11,9,2549.37,3,Champions
 14702.0,1,17,3292.14,0,Lost Customers
@@ -1745,14 +1745,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14716.0,43,2,329.68,3,Champions
 14719.0,2,5,1602.13,3,Champions
 14720.0,6,3,663.81,3,Champions
-14722.0,147,1,187.92,1,At Risk
+14722.0,147,1,187.92000000000002,1,At Risk
 14723.0,10,6,1158.3,3,Champions
 14725.0,25,1,718.08,3,Champions
 14727.0,274,1,268.58,1,At Risk
 14729.0,374,1,313.49,1,At Risk
 14730.0,1,8,2005.06,3,Champions
 14731.0,47,3,380.02,3,Champions
-14732.0,8,8,2702.49,3,Champions
+14732.0,8,8,2702.4900000000002,3,Champions
 14733.0,16,12,9585.91,0,Lost Customers
 14735.0,4,32,6065.69,0,Lost Customers
 14737.0,4,3,1164.55,3,Champions
@@ -1778,7 +1778,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14764.0,47,1,278.3,3,Champions
 14765.0,29,3,254.11,3,Champions
 14766.0,8,6,2473.37,3,Champions
-14768.0,17,2,192.6,3,Champions
+14768.0,17,2,192.60000000000002,3,Champions
 14769.0,3,8,10674.75,3,Champions
 14770.0,232,2,876.42,1,At Risk
 14772.0,112,1,139.26,3,Champions
@@ -1787,7 +1787,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14778.0,127,2,730.86,3,Champions
 14779.0,281,3,386.15,1,At Risk
 14780.0,55,2,447.68,3,Champions
-14782.0,320,1,200.1,1,At Risk
+14782.0,320,1,200.10000000000002,1,At Risk
 14784.0,26,2,289.99,3,Champions
 14785.0,10,2,77.4,3,Champions
 14788.0,7,2,679.4399999999999,3,Champions
@@ -1805,7 +1805,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14803.0,162,3,845.55,1,At Risk
 14804.0,9,1,353.27,3,Champions
 14805.0,15,4,554.65,3,Champions
-14806.0,75,1,193.39,3,Champions
+14806.0,75,1,193.39000000000001,3,Champions
 14808.0,40,8,2741.17,3,Champions
 14810.0,41,11,2087.88,3,Champions
 14813.0,370,2,155.43,1,At Risk
@@ -1815,7 +1815,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14818.0,74,3,657.8,3,Champions
 14819.0,64,2,272.07,3,Champions
 14820.0,21,4,507.29,3,Champions
-14821.0,367,1,48.8,1,At Risk
+14821.0,367,1,48.800000000000004,1,At Risk
 14823.0,180,3,321.43,1,At Risk
 14824.0,10,4,1127.71,3,Champions
 14825.0,4,12,2226.91,3,Champions
@@ -1823,7 +1823,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14829.0,29,4,697.55,3,Champions
 14830.0,53,1,197.13,3,Champions
 14834.0,18,6,1720.3,3,Champions
-14836.0,10,3,102.45,3,Champions
+14836.0,10,3,102.44999999999999,3,Champions
 14837.0,90,4,1649.5,3,Champions
 14840.0,268,1,62.85,1,At Risk
 14841.0,53,6,3295.76,3,Champions
@@ -1837,7 +1837,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14853.0,24,2,475.8,3,Champions
 14854.0,78,7,2759.83,3,Champions
 14855.0,119,2,645.65,3,Champions
-14856.0,36,3,1311.38,3,Champions
+14856.0,36,3,1311.3799999999999,3,Champions
 14857.0,60,2,1173.12,3,Champions
 14859.0,13,4,1353.74,3,Champions
 14860.0,19,1,170.32,3,Champions
@@ -1865,10 +1865,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14889.0,336,1,135.9,1,At Risk
 14890.0,254,1,125.65,1,At Risk
 14891.0,148,2,554.38,1,At Risk
-14893.0,10,2,1237.85,3,Champions
+14893.0,10,2,1237.8500000000001,3,Champions
 14894.0,85,1,655.75,3,Champions
-14895.0,8,20,11138.71,0,Lost Customers
-14896.0,205,2,468.77,1,At Risk
+14895.0,8,20,11138.710000000001,0,Lost Customers
+14896.0,205,2,468.77000000000004,1,At Risk
 14897.0,8,4,1366.38,3,Champions
 14898.0,23,6,1303.52,3,Champions
 14901.0,11,9,1421.29,3,Champions
@@ -1931,7 +1931,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 14985.0,198,2,296.75,1,At Risk
 14987.0,16,2,326.4,3,Champions
 14988.0,212,1,334.54,1,At Risk
-14995.0,39,2,233.23,3,Champions
+14995.0,39,2,233.23000000000002,3,Champions
 14997.0,46,3,546.1999999999999,3,Champions
 14998.0,170,2,429.87,1,At Risk
 15000.0,48,1,490.52,3,Champions
@@ -1946,7 +1946,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15014.0,43,2,260.17,3,Champions
 15016.0,173,1,170.04,1,At Risk
 15017.0,34,1,125.58,3,Champions
-15018.0,39,3,496.21,3,Champions
+15018.0,39,3,496.21000000000004,3,Champions
 15019.0,267,1,266.0,1,At Risk
 15021.0,9,9,1914.82,3,Champions
 15022.0,12,4,905.04,3,Champions
@@ -1954,23 +1954,23 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15024.0,10,10,1661.33,3,Champions
 15025.0,33,1,377.01,3,Champions
 15026.0,80,3,469.0,3,Champions
-15027.0,31,4,1066.15,3,Champions
+15027.0,31,4,1066.1499999999999,3,Champions
 15028.0,8,4,627.13,3,Champions
 15030.0,72,2,518.28,3,Champions
 15031.0,4,4,668.14,3,Champions
 15032.0,256,3,4959.1,1,At Risk
 15033.0,5,10,2586.67,3,Champions
 15034.0,16,8,4308.61,3,Champions
-15035.0,90,1,252.73,3,Champions
+15035.0,90,1,252.73000000000002,3,Champions
 15036.0,72,3,465.55,3,Champions
 15038.0,59,6,705.49,3,Champions
 15039.0,10,47,19914.44,0,Lost Customers
 15041.0,170,1,180.35,1,At Risk
 15042.0,199,1,135.93,1,At Risk
 15043.0,31,1,537.0,3,Champions
-15044.0,19,17,7700.23,0,Lost Customers
+15044.0,19,17,7700.2300000000005,0,Lost Customers
 15045.0,152,2,735.66,1,At Risk
-15046.0,9,15,5213.77,0,Lost Customers
+15046.0,9,15,5213.7699999999995,0,Lost Customers
 15047.0,270,1,343.62,1,At Risk
 15048.0,65,4,384.05,3,Champions
 15049.0,274,1,121.17000000000002,1,At Risk
@@ -1980,12 +1980,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15053.0,5,3,697.79,3,Champions
 15054.0,12,2,302.1,3,Champions
 15057.0,275,2,1489.5,1,At Risk
-15058.0,25,11,2124.99,3,Champions
+15058.0,25,11,2124.9900000000002,3,Champions
 15059.0,41,9,1337.72,3,Champions
 15060.0,8,4,303.09,3,Champions
 15061.0,4,48,54534.14,0,Lost Customers
 15062.0,71,4,987.86,3,Champions
-15063.0,213,1,370.8,1,At Risk
+15063.0,213,1,370.79999999999995,1,At Risk
 15065.0,38,4,3158.13,3,Champions
 15066.0,53,1,893.59,3,Champions
 15067.0,78,3,1744.76,3,Champions
@@ -2009,7 +2009,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15092.0,215,2,457.81,1,At Risk
 15093.0,18,6,4597.02,3,Champions
 15095.0,104,4,1370.6,3,Champions
-15096.0,43,1,219.39,3,Champions
+15096.0,43,1,219.39000000000001,3,Champions
 15097.0,4,1,248.08,3,Champions
 15098.0,182,3,39916.5,0,Lost Customers
 15099.0,84,1,410.48,3,Champions
@@ -2041,7 +2041,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15128.0,60,4,1471.0,3,Champions
 15129.0,50,11,3447.4,3,Champions
 15130.0,170,1,330.11,1,At Risk
-15132.0,18,5,977.93,3,Champions
+15132.0,18,5,977.9300000000001,3,Champions
 15133.0,128,3,982.42,3,Champions
 15134.0,15,8,1387.99,3,Champions
 15135.0,239,1,139.05,1,At Risk
@@ -2062,8 +2062,8 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15154.0,75,1,296.42,3,Champions
 15156.0,1,3,961.49,3,Champions
 15157.0,4,3,1936.07,3,Champions
-15158.0,45,1,401.4,3,Champions
-15159.0,2,30,18641.01,0,Lost Customers
+15158.0,45,1,401.40000000000003,3,Champions
+15159.0,2,30,18641.010000000002,0,Lost Customers
 15160.0,357,1,158.16,1,At Risk
 15163.0,18,2,304.47,3,Champions
 15164.0,69,3,843.05,3,Champions
@@ -2088,14 +2088,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15193.0,61,1,499.32,3,Champions
 15194.0,3,15,7616.53,0,Lost Customers
 15195.0,3,1,3861.0,3,Champions
-15197.0,11,3,1079.61,3,Champions
+15197.0,11,3,1079.6100000000001,3,Champions
 15198.0,92,2,193.64,3,Champions
 15199.0,59,4,1268.7,3,Champions
 15201.0,87,5,1236.54,3,Champions
 15203.0,26,6,1827.8,3,Champions
 15204.0,357,1,316.58,1,At Risk
 15205.0,85,2,653.24,3,Champions
-15206.0,10,4,420.3,3,Champions
+15206.0,10,4,420.29999999999995,3,Champions
 15208.0,1,5,870.12,3,Champions
 15210.0,225,1,331.18,1,At Risk
 15211.0,60,2,894.4100000000001,3,Champions
@@ -2111,7 +2111,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15222.0,319,1,585.0,1,At Risk
 15223.0,226,2,755.75,1,At Risk
 15224.0,358,2,322.08,1,At Risk
-15225.0,234,1,409.4,1,At Risk
+15225.0,234,1,409.40000000000003,1,At Risk
 15226.0,311,1,154.41,1,At Risk
 15227.0,37,5,1219.4,3,Champions
 15228.0,66,4,3386.71,3,Champions
@@ -2133,7 +2133,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15249.0,32,13,6688.46,0,Lost Customers
 15251.0,9,11,10484.99,3,Champions
 15252.0,36,2,740.78,3,Champions
-15253.0,16,5,918.2,3,Champions
+15253.0,16,5,918.1999999999999,3,Champions
 15254.0,127,1,300.36,3,Champions
 15255.0,67,1,890.85,3,Champions
 15256.0,149,1,98.45,1,At Risk
@@ -2144,7 +2144,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15262.0,324,1,178.95000000000002,1,At Risk
 15263.0,107,1,156.51,3,Champions
 15264.0,64,1,393.74,3,Champions
-15265.0,151,2,1506.12,1,At Risk
+15265.0,151,2,1506.1200000000001,1,At Risk
 15266.0,338,1,119.3,1,At Risk
 15267.0,22,5,1717.36,3,Champions
 15269.0,24,1,408.8,3,Champions
@@ -2154,7 +2154,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15274.0,4,2,716.57,3,Champions
 15275.0,38,1,615.14,3,Champions
 15276.0,66,1,135.31,3,Champions
-15277.0,47,1,255.9,3,Champions
+15277.0,47,1,255.89999999999998,3,Champions
 15279.0,355,1,290.51,1,At Risk
 15280.0,172,1,113.12,1,At Risk
 15281.0,59,9,2332.15,3,Champions
@@ -2202,12 +2202,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15343.0,87,1,364.5,3,Champions
 15344.0,1,3,563.94,3,Champions
 15345.0,46,1,393.54,3,Champions
-15346.0,333,1,252.42,1,At Risk
-15347.0,366,1,201.6,1,At Risk
+15346.0,333,1,252.42000000000002,1,At Risk
+15347.0,366,1,201.60000000000002,1,At Risk
 15348.0,72,1,158.04,3,Champions
 15349.0,158,2,473.81,1,At Risk
 15350.0,373,1,115.65,1,At Risk
-15351.0,12,7,1960.11,3,Champions
+15351.0,12,7,1960.1100000000001,3,Champions
 15353.0,255,2,777.02,1,At Risk
 15355.0,29,2,277.05,3,Champions
 15356.0,31,10,2766.5,3,Champions
@@ -2221,10 +2221,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15367.0,57,4,1877.59,3,Champions
 15368.0,21,1,446.94000000000005,3,Champions
 15370.0,41,7,2386.05,3,Champions
-15372.0,137,1,2007.4,3,Champions
+15372.0,137,1,2007.3999999999999,3,Champions
 15373.0,8,12,2415.91,3,Champions
 15374.0,129,1,168.0,3,Champions
-15376.0,40,3,1233.36,3,Champions
+15376.0,40,3,1233.3600000000001,3,Champions
 15379.0,169,7,3703.29,1,At Risk
 15380.0,9,5,1690.2600000000002,3,Champions
 15381.0,214,2,596.85,1,At Risk
@@ -2245,7 +2245,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15400.0,92,5,716.2,3,Champions
 15402.0,149,2,626.77,1,At Risk
 15405.0,189,1,349.1,1,At Risk
-15406.0,31,2,510.71,3,Champions
+15406.0,31,2,510.71000000000004,3,Champions
 15407.0,34,4,1056.44,3,Champions
 15408.0,264,1,267.18,1,At Risk
 15410.0,84,8,3450.84,3,Champions
@@ -2298,14 +2298,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15471.0,2,1,469.48,3,Champions
 15472.0,113,1,371.56,3,Champions
 15473.0,14,7,1771.2,3,Champions
-15475.0,77,1,454.11,3,Champions
+15475.0,77,1,454.10999999999996,3,Champions
 15478.0,40,2,1441.42,3,Champions
 15480.0,116,1,905.5,3,Champions
 15482.0,16,12,11054.96,0,Lost Customers
 15483.0,161,4,233.81,1,At Risk
 15484.0,1,4,3594.31,3,Champions
 15485.0,30,3,2575.0,3,Champions
-15488.0,93,1,91.32,3,Champions
+15488.0,93,1,91.32000000000001,3,Champions
 15489.0,23,3,1134.28,3,Champions
 15491.0,95,6,3100.09,3,Champions
 15492.0,28,2,659.4599999999999,3,Champions
@@ -2324,7 +2324,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15510.0,331,1,250.0,1,At Risk
 15511.0,12,5,909.23,3,Champions
 15512.0,156,2,121.0,1,At Risk
-15513.0,33,19,14758.22,0,Lost Customers
+15513.0,33,19,14758.220000000001,0,Lost Customers
 15514.0,12,11,4139.46,3,Champions
 15516.0,45,3,62.43,3,Champions
 15517.0,233,1,267.03,1,At Risk
@@ -2332,7 +2332,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15520.0,2,1,343.5,3,Champions
 15521.0,40,8,3000.2,3,Champions
 15522.0,33,2,398.84,3,Champions
-15523.0,84,1,412.0100000000001,3,Champions
+15523.0,84,1,412.01000000000005,3,Champions
 15524.0,25,1,440.0,3,Champions
 15525.0,2,3,825.92,3,Champions
 15526.0,33,2,148.44,3,Champions
@@ -2350,7 +2350,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15541.0,114,1,85.13000000000001,3,Champions
 15543.0,288,1,127.86,1,At Risk
 15544.0,9,9,3546.71,3,Champions
-15545.0,54,2,292.72,3,Champions
+15545.0,54,2,292.71999999999997,3,Champions
 15547.0,7,14,4954.84,0,Lost Customers
 15549.0,77,3,1693.26,3,Champions
 15550.0,4,4,575.63,3,Champions
@@ -2360,7 +2360,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15554.0,278,1,217.2,1,At Risk
 15555.0,12,16,4805.17,0,Lost Customers
 15556.0,24,1,279.77,3,Champions
-15557.0,29,1,473.65,3,Champions
+15557.0,29,1,473.65000000000003,3,Champions
 15561.0,12,4,800.59,3,Champions
 15562.0,352,1,134.55,1,At Risk
 15563.0,22,4,1400.44,3,Champions
@@ -2373,16 +2373,16 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15572.0,5,7,2552.86,3,Champions
 15573.0,32,2,607.45,3,Champions
 15574.0,178,4,702.25,1,At Risk
-15576.0,38,1,940.67,3,Champions
+15576.0,38,1,940.6700000000001,3,Champions
 15577.0,151,3,258.88,1,At Risk
 15578.0,162,1,127.1,1,At Risk
 15579.0,69,2,348.6,3,Champions
-15581.0,121,13,3679.97,3,Champions
+15581.0,121,13,3679.9700000000003,3,Champions
 15582.0,25,3,682.9100000000001,3,Champions
 15584.0,24,4,725.11,3,Champions
 15585.0,177,1,455.3,1,At Risk
-15587.0,50,4,913.68,3,Champions
-15589.0,256,3,478.53,1,At Risk
+15587.0,50,4,913.6800000000001,3,Champions
+15589.0,256,3,478.53000000000003,1,At Risk
 15592.0,47,1,388.58,3,Champions
 15593.0,71,1,199.8,3,Champions
 15594.0,16,5,1771.78,3,Champions
@@ -2391,15 +2391,15 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15598.0,53,1,240.68,3,Champions
 15599.0,27,2,761.74,3,Champions
 15601.0,11,14,6776.56,0,Lost Customers
-15602.0,8,9,1297.87,3,Champions
-15603.0,79,1,48.48,3,Champions
+15602.0,8,9,1297.8700000000001,3,Champions
+15603.0,79,1,48.480000000000004,3,Champions
 15604.0,52,1,216.39,3,Champions
 15605.0,36,5,1198.23,3,Champions
 15606.0,61,9,2920.16,3,Champions
 15607.0,337,1,104.76,1,At Risk
 15608.0,28,4,1093.68,3,Champions
 15609.0,184,1,298.48,1,At Risk
-15610.0,52,1,112.46,3,Champions
+15610.0,52,1,112.46000000000001,3,Champions
 15611.0,10,13,1591.45,3,Champions
 15612.0,36,2,195.15,3,Champions
 15615.0,10,23,10399.74,0,Lost Customers
@@ -2412,7 +2412,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15624.0,117,4,588.13,3,Champions
 15625.0,104,4,1534.26,3,Champions
 15626.0,75,2,675.8,3,Champions
-15628.0,5,9,2870.24,3,Champions
+15628.0,5,9,2870.2400000000002,3,Champions
 15630.0,45,2,1186.35,3,Champions
 15632.0,16,8,3285.31,3,Champions
 15634.0,17,1,243.55,3,Champions
@@ -2424,7 +2424,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15643.0,192,3,664.0,1,At Risk
 15644.0,166,4,813.0,1,At Risk
 15645.0,19,1,612.01,3,Champions
-15646.0,158,3,447.64,1,At Risk
+15646.0,158,3,447.64000000000004,1,At Risk
 15648.0,204,2,657.35,1,At Risk
 15649.0,336,2,816.0,1,At Risk
 15651.0,37,3,646.3,3,Champions
@@ -2434,7 +2434,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15655.0,243,1,560.67,1,At Risk
 15656.0,45,4,748.5,3,Champions
 15657.0,23,1,30.0,3,Champions
-15658.0,190,5,1024.1,1,At Risk
+15658.0,190,5,1024.1000000000001,1,At Risk
 15659.0,44,1,306.45,3,Champions
 15660.0,25,9,1600.86,3,Champions
 15661.0,317,2,309.8,1,At Risk
@@ -2472,9 +2472,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15705.0,201,1,143.1,1,At Risk
 15706.0,64,4,1060.56,3,Champions
 15707.0,35,4,945.58,3,Champions
-15708.0,41,7,3364.24,3,Champions
+15708.0,41,7,3364.2400000000002,3,Champions
 15709.0,284,1,133.25,1,At Risk
-15712.0,9,5,1072.36,3,Champions
+15712.0,9,5,1072.3600000000001,3,Champions
 15713.0,143,2,356.7,3,Champions
 15714.0,12,2,330.88,3,Champions
 15716.0,146,4,1118.81,3,Champions
@@ -2492,7 +2492,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15732.0,212,2,294.12,1,At Risk
 15733.0,283,1,162.3,1,At Risk
 15734.0,115,2,1339.45,3,Champions
-15737.0,15,8,1205.12,3,Champions
+15737.0,15,8,1205.1200000000001,3,Champions
 15738.0,19,16,4812.42,0,Lost Customers
 15739.0,66,1,449.12,3,Champions
 15740.0,49,1,154.88,3,Champions
@@ -2523,9 +2523,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15775.0,245,1,104.9,1,At Risk
 15776.0,133,1,241.62,3,Champions
 15777.0,241,4,1047.11,1,At Risk
-15780.0,184,3,475.28,1,At Risk
+15780.0,184,3,475.28000000000003,1,At Risk
 15781.0,25,3,345.46,3,Champions
-15782.0,10,3,2614.74,3,Champions
+15782.0,10,3,2614.7400000000002,3,Champions
 15783.0,11,1,246.3,3,Champions
 15785.0,33,5,2328.9700000000003,3,Champions
 15786.0,46,3,4932.2,3,Champions
@@ -2541,17 +2541,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15800.0,107,2,699.08,3,Champions
 15801.0,46,3,1063.95,3,Champions
 15802.0,143,1,451.42,3,Champions
-15803.0,51,1,415.8200000000001,3,Champions
+15803.0,51,1,415.82000000000005,3,Champions
 15804.0,1,13,4206.39,3,Champions
 15805.0,23,17,5528.4800000000005,0,Lost Customers
 15806.0,46,3,784.58,3,Champions
 15807.0,50,3,903.9,3,Champions
-15808.0,306,4,3734.97,1,At Risk
+15808.0,306,4,3734.9700000000003,1,At Risk
 15809.0,36,5,515.77,3,Champions
 15810.0,79,4,1391.98,3,Champions
 15811.0,22,6,2218.62,3,Champions
 15812.0,107,5,1801.14,3,Champions
-15813.0,208,2,1303.91,1,At Risk
+15813.0,208,2,1303.9099999999999,1,At Risk
 15814.0,17,4,1945.33,3,Champions
 15815.0,64,5,2100.6,3,Champions
 15819.0,49,4,1905.45,3,Champions
@@ -2561,7 +2561,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15823.0,372,1,15.0,1,At Risk
 15825.0,172,1,532.94,1,At Risk
 15826.0,56,3,1654.31,3,Champions
-15827.0,73,14,1836.09,3,Champions
+15827.0,73,14,1836.0900000000001,3,Champions
 15829.0,99,2,636.14,3,Champions
 15830.0,38,1,576.0,3,Champions
 15831.0,58,3,801.76,3,Champions
@@ -2590,7 +2590,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15861.0,12,8,3165.36,3,Champions
 15862.0,8,4,832.88,3,Champions
 15863.0,26,2,68.84,3,Champions
-15864.0,22,6,1936.32,3,Champions
+15864.0,22,6,1936.3200000000002,3,Champions
 15865.0,41,3,895.13,3,Champions
 15866.0,101,1,230.53,3,Champions
 15867.0,5,15,3812.64,0,Lost Customers
@@ -2600,7 +2600,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15874.0,64,7,4405.88,3,Champions
 15877.0,2,2,493.28,3,Champions
 15880.0,369,1,343.28000000000003,1,At Risk
-15881.0,312,5,501.39,1,At Risk
+15881.0,312,5,501.39000000000004,1,At Risk
 15882.0,199,4,516.36,1,At Risk
 15883.0,2,2,396.48,3,Champions
 15885.0,93,3,379.35,3,Champions
@@ -2648,7 +2648,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15950.0,32,4,1765.51,3,Champions
 15951.0,9,2,708.22,3,Champions
 15952.0,34,4,806.57,3,Champions
-15953.0,15,8,1659.38,3,Champions
+15953.0,15,8,1659.3799999999999,3,Champions
 15955.0,24,14,4416.26,0,Lost Customers
 15957.0,32,1,428.89,3,Champions
 15958.0,74,1,104.35,3,Champions
@@ -2673,7 +2673,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 15987.0,12,7,1451.28,3,Champions
 15988.0,19,1,158.03,3,Champions
 15990.0,44,2,792.11,3,Champions
-15992.0,4,1,41.99,3,Champions
+15992.0,4,1,41.989999999999995,3,Champions
 15993.0,9,7,2797.57,3,Champions
 15994.0,55,1,427.07,3,Champions
 15996.0,88,6,1060.68,3,Champions
@@ -2693,13 +2693,13 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16015.0,4,3,705.39,3,Champions
 16016.0,3,8,1508.76,3,Champions
 16017.0,47,1,211.88,3,Champions
-16018.0,39,2,408.9,3,Champions
-16019.0,47,9,3786.24,3,Champions
+16018.0,39,2,408.90000000000003,3,Champions
+16019.0,47,9,3786.2400000000002,3,Champions
 16020.0,17,3,851.01,3,Champions
 16022.0,260,1,628.28,1,At Risk
 16023.0,46,3,719.81,3,Champions
 16024.0,12,1,251.24,3,Champions
-16025.0,30,1,439.66,3,Champions
+16025.0,30,1,439.65999999999997,3,Champions
 16026.0,43,1,236.09,3,Champions
 16027.0,92,6,934.62,3,Champions
 16029.0,39,63,81024.84,2,Loyal Customers
@@ -2709,7 +2709,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16034.0,196,3,437.7,1,At Risk
 16036.0,87,2,758.92,3,Champions
 16037.0,270,3,855.02,1,At Risk
-16038.0,8,3,471.78,3,Champions
+16038.0,8,3,471.78000000000003,3,Champions
 16040.0,65,3,1313.55,3,Champions
 16041.0,31,3,3166.4,3,Champions
 16042.0,22,5,1197.27,3,Champions
@@ -2724,7 +2724,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16055.0,221,1,134.8,1,At Risk
 16056.0,45,1,664.85,3,Champions
 16057.0,16,7,2263.12,3,Champions
-16059.0,66,6,1459.86,3,Champions
+16059.0,66,6,1459.8600000000001,3,Champions
 16062.0,10,4,1153.62,3,Champions
 16063.0,260,1,335.32,1,At Risk
 16065.0,365,1,372.09,1,At Risk
@@ -2732,7 +2732,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16070.0,22,2,852.15,3,Champions
 16071.0,45,1,326.24,3,Champions
 16072.0,288,1,584.3199999999999,1,At Risk
-16073.0,297,1,122.4,1,At Risk
+16073.0,297,1,122.39999999999999,1,At Risk
 16076.0,3,10,2234.73,3,Champions
 16078.0,284,1,79.2,1,At Risk
 16079.0,17,3,1352.0,3,Champions
@@ -2747,7 +2747,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16093.0,107,1,17.0,3,Champions
 16094.0,12,4,1078.23,3,Champions
 16096.0,264,1,320.62,1,At Risk
-16097.0,240,1,185.05,1,At Risk
+16097.0,240,1,185.04999999999998,1,At Risk
 16098.0,88,7,2005.63,3,Champions
 16099.0,50,3,731.9,3,Champions
 16101.0,71,1,1290.7,3,Champions
@@ -2760,7 +2760,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16108.0,85,1,842.5,3,Champions
 16109.0,219,2,611.88,1,At Risk
 16110.0,45,3,1337.48,3,Champions
-16112.0,143,4,195.74,3,Champions
+16112.0,143,4,195.73999999999998,3,Champions
 16113.0,183,1,161.38,1,At Risk
 16114.0,171,1,135.75000000000003,1,At Risk
 16115.0,10,8,1667.97,3,Champions
@@ -2787,7 +2787,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16142.0,250,1,535.34,1,At Risk
 16143.0,3,6,2424.94,3,Champions
 16144.0,247,1,175.2,1,At Risk
-16145.0,9,11,3799.49,3,Champions
+16145.0,9,11,3799.4900000000002,3,Champions
 16146.0,157,3,734.13,1,At Risk
 16147.0,134,1,375.0,3,Champions
 16148.0,296,1,76.32000000000001,1,At Risk
@@ -2809,7 +2809,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16171.0,59,1,73.2,3,Champions
 16172.0,95,5,1140.21,3,Champions
 16173.0,16,6,1418.32,3,Champions
-16174.0,126,3,1009.55,3,Champions
+16174.0,126,3,1009.5500000000001,3,Champions
 16175.0,94,4,1037.59,3,Champions
 16177.0,50,1,331.95,3,Champions
 16178.0,138,1,197.9,3,Champions
@@ -2827,8 +2827,8 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16190.0,40,1,215.08,3,Champions
 16191.0,3,13,5180.52,3,Champions
 16193.0,237,1,314.45,1,At Risk
-16198.0,75,1,400.681,3,Champions
-16200.0,4,2,1080.62,3,Champions
+16198.0,75,1,400.68100000000004,3,Champions
+16200.0,4,2,1080.6200000000001,3,Champions
 16201.0,3,4,1863.47,3,Champions
 16202.0,361,1,365.27,1,At Risk
 16203.0,59,4,592.9,3,Champions
@@ -2844,7 +2844,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16213.0,79,1,159.0,3,Champions
 16214.0,171,3,1062.75,1,At Risk
 16215.0,81,1,242.35,3,Champions
-16216.0,267,1,914.93,1,At Risk
+16216.0,267,1,914.9300000000001,1,At Risk
 16217.0,235,2,304.25,1,At Risk
 16218.0,30,7,3084.68,3,Champions
 16221.0,37,3,864.86,3,Champions
@@ -2894,13 +2894,13 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16284.0,31,2,823.97,3,Champions
 16287.0,170,1,142.5,1,At Risk
 16292.0,122,1,302.25,3,Champions
-16293.0,22,10,2248.99,3,Champions
+16293.0,22,10,2248.9900000000002,3,Champions
 16295.0,10,4,1328.55,3,Champions
 16297.0,269,1,301.9,1,At Risk
 16298.0,23,3,598.2,3,Champions
 16302.0,127,1,233.22,3,Champions
 16303.0,26,3,5360.63,3,Champions
-16305.0,139,1,361.22,3,Champions
+16305.0,139,1,361.21999999999997,3,Champions
 16306.0,214,6,632.27,1,At Risk
 16308.0,38,4,2560.0,3,Champions
 16309.0,106,2,706.57,3,Champions
@@ -2910,9 +2910,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16316.0,64,8,2938.91,3,Champions
 16317.0,120,3,1341.65,3,Champions
 16318.0,35,1,328.15,3,Champions
-16319.0,218,1,404.4,1,At Risk
+16319.0,218,1,404.40000000000003,1,At Risk
 16320.0,172,2,1038.46,1,At Risk
-16321.0,72,5,373.65,3,Champions
+16321.0,72,5,373.65000000000003,3,Champions
 16322.0,1,2,326.75,3,Champions
 16323.0,196,1,207.50000000000003,1,At Risk
 16324.0,128,3,428.68,3,Champions
@@ -2923,13 +2923,13 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16332.0,28,7,1593.2,3,Champions
 16333.0,8,22,26626.8,0,Lost Customers
 16337.0,37,1,151.05,3,Champions
-16338.0,157,1,214.8,1,At Risk
+16338.0,157,1,214.79999999999998,1,At Risk
 16339.0,284,1,109.95,1,At Risk
 16340.0,107,1,549.07,3,Champions
 16341.0,25,4,1971.87,3,Champions
 16342.0,75,4,322.41,3,Champions
-16343.0,16,2,370.48,3,Champions
-16344.0,158,1,101.1,1,At Risk
+16343.0,16,2,370.47999999999996,3,Champions
+16344.0,158,1,101.10000000000001,1,At Risk
 16345.0,44,1,575.41,3,Champions
 16347.0,11,2,887.65,3,Champions
 16348.0,32,7,1469.45,3,Champions
@@ -2946,7 +2946,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16360.0,5,6,3512.53,3,Champions
 16361.0,10,4,896.66,3,Champions
 16362.0,32,5,734.77,3,Champions
-16363.0,53,1,109.36,3,Champions
+16363.0,53,1,109.36000000000001,3,Champions
 16364.0,12,2,707.04,3,Champions
 16365.0,18,9,1540.42,3,Champions
 16366.0,19,1,327.3,3,Champions
@@ -2955,7 +2955,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16369.0,18,3,1553.66,3,Champions
 16370.0,82,4,1320.56,3,Champions
 16372.0,33,2,367.93,3,Champions
-16374.0,66,2,473.03,3,Champions
+16374.0,66,2,473.03000000000003,3,Champions
 16376.0,9,2,987.01,3,Champions
 16377.0,267,1,676.2,1,At Risk
 16378.0,247,3,362.95,1,At Risk
@@ -3010,7 +3010,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16445.0,34,1,230.51,3,Champions
 16446.0,1,2,168472.5,2,Loyal Customers
 16447.0,136,1,259.01,3,Champions
-16448.0,198,1,188.89,1,At Risk
+16448.0,198,1,188.89000000000001,1,At Risk
 16449.0,198,2,707.69,1,At Risk
 16450.0,150,1,311.92,1,At Risk
 16451.0,88,1,266.97,3,Champions
@@ -3018,7 +3018,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16455.0,64,7,1841.18,3,Champions
 16456.0,99,5,2158.37,3,Champions
 16457.0,218,1,208.36,1,At Risk
-16458.0,3,18,3482.74,0,Lost Customers
+16458.0,3,18,3482.7400000000002,0,Lost Customers
 16460.0,28,3,814.72,3,Champions
 16461.0,178,1,151.42,1,At Risk
 16462.0,74,3,136.0,3,Champions
@@ -3028,7 +3028,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16468.0,74,1,74.9,3,Champions
 16469.0,24,4,650.43,3,Champions
 16470.0,52,4,762.39,3,Champions
-16471.0,275,1,223.95,1,At Risk
+16471.0,275,1,223.95000000000002,1,At Risk
 16473.0,165,3,316.11,1,At Risk
 16474.0,7,7,1871.5,3,Champions
 16475.0,88,4,544.3,3,Champions
@@ -3053,18 +3053,18 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16503.0,107,4,1431.93,3,Champions
 16504.0,25,1,484.38,3,Champions
 16505.0,32,1,777.6,3,Champions
-16506.0,20,2,90.3,3,Champions
+16506.0,20,2,90.30000000000001,3,Champions
 16509.0,297,1,363.7,1,At Risk
 16510.0,372,1,248.1,1,At Risk
 16511.0,22,3,950.26,3,Champions
 16513.0,5,4,874.59,3,Champions
 16515.0,52,5,1627.13,3,Champions
-16516.0,30,1,101.7,3,Champions
+16516.0,30,1,101.69999999999999,3,Champions
 16517.0,277,1,162.7,1,At Risk
 16518.0,61,2,484.32,3,Champions
-16519.0,25,2,215.08,3,Champions
+16519.0,25,2,215.07999999999998,3,Champions
 16520.0,186,3,1046.57,1,At Risk
-16523.0,2,21,9418.47,0,Lost Customers
+16523.0,2,21,9418.470000000001,0,Lost Customers
 16525.0,2,26,13027.45,0,Lost Customers
 16526.0,172,1,290.36,1,At Risk
 16527.0,81,1,228.06,3,Champions
@@ -3117,7 +3117,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16597.0,4,1,90.04,3,Champions
 16598.0,286,1,145.04999999999998,1,At Risk
 16600.0,4,6,813.52,3,Champions
-16601.0,41,1,244.8,3,Champions
+16601.0,41,1,244.79999999999998,3,Champions
 16602.0,36,1,528.08,3,Champions
 16603.0,75,2,482.47,3,Champions
 16607.0,18,14,3347.71,3,Champions
@@ -3145,12 +3145,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16637.0,32,4,1154.47,3,Champions
 16638.0,23,10,1680.72,3,Champions
 16639.0,31,3,1257.51,3,Champions
-16641.0,106,1,231.1,3,Champions
+16641.0,106,1,231.10000000000002,3,Champions
 16642.0,5,2,688.33,3,Champions
 16643.0,246,1,487.51,1,At Risk
 16644.0,178,2,833.78,1,At Risk
 16647.0,170,2,214.06,1,At Risk
-16648.0,43,1,290.66,3,Champions
+16648.0,43,1,290.65999999999997,3,Champions
 16650.0,72,1,518.42,3,Champions
 16652.0,59,7,6773.97,3,Champions
 16653.0,16,2,1212.66,3,Champions
@@ -3160,17 +3160,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16657.0,10,4,933.62,3,Champions
 16658.0,368,1,123.24,1,At Risk
 16659.0,189,1,39.12,1,At Risk
-16660.0,16,4,1267.65,3,Champions
+16660.0,16,4,1267.6499999999999,3,Champions
 16665.0,362,1,135.39999999999998,1,At Risk
 16666.0,19,1,118.98,3,Champions
 16667.0,68,2,570.13,3,Champions
-16668.0,15,6,306.72,3,Champions
-16669.0,24,3,1374.87,3,Champions
+16668.0,15,6,306.71999999999997,3,Champions
+16669.0,24,3,1374.8700000000001,3,Champions
 16670.0,17,11,4095.9,3,Champions
 16671.0,28,3,1692.27,3,Champions
-16672.0,2,20,8134.94,0,Lost Customers
+16672.0,2,20,8134.9400000000005,0,Lost Customers
 16674.0,55,2,319.61,3,Champions
-16676.0,34,4,1592.12,3,Champions
+16676.0,34,4,1592.1200000000001,3,Champions
 16678.0,3,12,3109.99,3,Champions
 16679.0,366,1,129.75,1,At Risk
 16680.0,43,1,183.7,3,Champions
@@ -3180,8 +3180,8 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16685.0,61,2,324.24,3,Champions
 16686.0,47,7,3062.83,3,Champions
 16688.0,1,4,1260.86,3,Champions
-16689.0,76,2,422.6,3,Champions
-16690.0,72,2,225.58,3,Champions
+16689.0,76,2,422.59999999999997,3,Champions
+16690.0,72,2,225.57999999999998,3,Champions
 16692.0,256,2,1276.0,1,At Risk
 16693.0,69,2,482.01,3,Champions
 16696.0,135,4,657.9000000000001,3,Champions
@@ -3198,7 +3198,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16712.0,9,11,3645.43,3,Champions
 16713.0,19,15,6923.13,0,Lost Customers
 16714.0,219,3,1161.53,1,At Risk
-16715.0,78,1,301.72,3,Champions
+16715.0,78,1,301.71999999999997,3,Champions
 16716.0,267,2,901.2,1,At Risk
 16717.0,24,6,3858.38,3,Champions
 16718.0,369,1,623.75,1,At Risk
@@ -3216,7 +3216,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16732.0,32,1,603.75,3,Champions
 16734.0,52,3,650.51,3,Champions
 16735.0,79,5,2300.56,3,Champions
-16737.0,53,1,417.6,3,Champions
+16737.0,53,1,417.59999999999997,3,Champions
 16738.0,298,1,3.75,1,At Risk
 16739.0,177,1,323.0,1,At Risk
 16742.0,47,1,464.9,3,Champions
@@ -3229,12 +3229,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16750.0,45,5,623.93,3,Champions
 16751.0,31,1,1764.72,3,Champions
 16752.0,373,1,207.5,1,At Risk
-16753.0,58,1,223.92,3,Champions
+16753.0,58,1,223.92000000000002,3,Champions
 16754.0,372,1,2002.4,1,At Risk
 16755.0,114,3,1496.83,3,Champions
 16756.0,215,1,239.4,1,At Risk
-16757.0,319,1,106.83,1,At Risk
-16758.0,65,1,369.34,3,Champions
+16757.0,319,1,106.83000000000001,1,At Risk
+16758.0,65,1,369.34000000000003,3,Champions
 16759.0,8,3,789.79,3,Champions
 16761.0,97,1,316.62,3,Champions
 16762.0,20,3,1501.38,3,Champions
@@ -3243,7 +3243,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16765.0,294,1,34.0,1,At Risk
 16766.0,273,2,1145.6,1,At Risk
 16767.0,31,11,5580.6,3,Champions
-16768.0,48,3,478.09,3,Champions
+16768.0,48,3,478.09000000000003,3,Champions
 16769.0,260,1,380.39,1,At Risk
 16770.0,58,5,770.1,3,Champions
 16771.0,33,5,2246.81,3,Champions
@@ -3253,16 +3253,16 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16776.0,60,1,388.28,3,Champions
 16777.0,80,2,226.35,3,Champions
 16778.0,74,2,245.94,3,Champions
-16779.0,2,22,10629.72,0,Lost Customers
+16779.0,2,22,10629.720000000001,0,Lost Customers
 16780.0,100,2,425.19,3,Champions
 16781.0,372,1,311.25,1,At Risk
 16782.0,10,13,2279.9,3,Champions
 16784.0,20,1,107.6,3,Champions
 16788.0,123,2,597.48,3,Champions
 16789.0,8,1,80.8,3,Champions
-16790.0,4,6,1545.62,3,Champions
+16790.0,4,6,1545.6200000000001,3,Champions
 16791.0,29,7,1721.78,3,Champions
-16792.0,282,2,110.38,1,At Risk
+16792.0,282,2,110.38000000000001,1,At Risk
 16793.0,57,1,243.84,3,Champions
 16794.0,1,10,1222.71,3,Champions
 16795.0,365,1,414.88,1,At Risk
@@ -3309,14 +3309,14 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16849.0,187,1,124.57,1,At Risk
 16850.0,334,1,332.41,1,At Risk
 16851.0,4,3,342.45,3,Champions
-16852.0,10,2,144.91000000000005,3,Champions
+16852.0,10,2,144.91000000000003,3,Champions
 16855.0,24,2,328.4,3,Champions
 16856.0,15,1,35.400000000000006,3,Champions
 16858.0,369,1,375.69000000000005,1,At Risk
 16859.0,145,2,747.81,3,Champions
 16861.0,60,2,173.76,3,Champions
 16863.0,31,2,502.8,3,Champions
-16866.0,141,3,207.74,3,Champions
+16866.0,141,3,207.73999999999998,3,Champions
 16869.0,23,4,825.42,3,Champions
 16871.0,22,6,2812.34,3,Champions
 16872.0,77,3,680.02,3,Champions
@@ -3328,7 +3328,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16881.0,67,1,432.0,3,Champions
 16882.0,67,3,705.12,3,Champions
 16883.0,187,2,276.73,1,At Risk
-16884.0,38,2,429.84,3,Champions
+16884.0,38,2,429.84000000000003,3,Champions
 16885.0,15,3,471.51,3,Champions
 16887.0,35,1,194.88,3,Champions
 16889.0,195,3,1578.67,1,At Risk
@@ -3367,7 +3367,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16931.0,5,21,4604.22,0,Lost Customers
 16932.0,53,1,161.94,3,Champions
 16933.0,1,2,563.23,3,Champions
-16934.0,55,2,950.93,3,Champions
+16934.0,55,2,950.9300000000001,3,Champions
 16936.0,26,1,262.68,3,Champions
 16938.0,9,4,2736.38,3,Champions
 16940.0,52,3,3049.88,3,Champions
@@ -3385,17 +3385,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 16955.0,185,4,518.67,1,At Risk
 16956.0,18,1,308.74,3,Champions
 16957.0,239,2,416.64,1,At Risk
-16959.0,87,1,117.35,3,Champions
+16959.0,87,1,117.35000000000001,3,Champions
 16960.0,39,3,507.05,3,Champions
 16961.0,116,1,234.17,3,Champions
-16963.0,187,1,110.55,1,At Risk
+16963.0,187,1,110.55000000000001,1,At Risk
 16965.0,227,1,201.19,1,At Risk
 16966.0,8,7,2154.97,3,Champions
 16967.0,189,1,319.02,1,At Risk
 16968.0,4,2,439.43,3,Champions
 16969.0,39,3,650.41,3,Champions
 16971.0,38,1,357.21,3,Champions
-16976.0,267,1,251.52,1,At Risk
+16976.0,267,1,251.51999999999998,1,At Risk
 16978.0,78,1,344.33,3,Champions
 16979.0,4,6,1852.0,3,Champions
 16980.0,255,2,1078.96,1,At Risk
@@ -3435,12 +3435,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17031.0,12,2,380.35,3,Champions
 17033.0,86,3,1030.14,3,Champions
 17034.0,16,3,745.52,3,Champions
-17035.0,246,2,433.53,1,At Risk
+17035.0,246,2,433.53000000000003,1,At Risk
 17037.0,88,1,1267.32,3,Champions
 17038.0,30,1,112.4,3,Champions
 17040.0,138,1,449.73,3,Champions
 17041.0,27,3,1081.57,3,Champions
-17042.0,3,5,1044.38,3,Champions
+17042.0,3,5,1044.3799999999999,3,Champions
 17043.0,32,4,1735.18,3,Champions
 17044.0,25,1,948.48,3,Champions
 17045.0,113,3,339.44,3,Champions
@@ -3449,7 +3449,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17048.0,118,3,925.35,3,Champions
 17049.0,3,9,5659.9800000000005,3,Champions
 17050.0,96,6,3228.84,3,Champions
-17051.0,194,1,247.14,1,At Risk
+17051.0,194,1,247.14000000000001,1,At Risk
 17052.0,28,1,413.75,3,Champions
 17053.0,131,1,498.48,3,Champions
 17054.0,28,5,1356.33,3,Champions
@@ -3468,7 +3468,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17075.0,18,4,834.12,3,Champions
 17076.0,36,3,841.0799999999999,3,Champions
 17078.0,36,2,378.2,3,Champions
-17079.0,78,1,118.8,3,Champions
+17079.0,78,1,118.80000000000001,3,Champions
 17080.0,22,2,287.62,3,Champions
 17081.0,25,2,290.16,3,Champions
 17082.0,33,2,2003.85,3,Champions
@@ -3494,7 +3494,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17111.0,47,1,248.61,3,Champions
 17114.0,6,8,808.62,3,Champions
 17115.0,8,3,837.5,3,Champions
-17117.0,288,1,116.2,1,At Risk
+17117.0,288,1,116.19999999999999,1,At Risk
 17118.0,318,1,157.02,1,At Risk
 17119.0,3,2,606.91,3,Champions
 17120.0,233,1,307.46,1,At Risk
@@ -3519,7 +3519,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17152.0,195,3,1689.5,1,At Risk
 17153.0,24,1,213.78,3,Champions
 17154.0,75,1,329.34,3,Champions
-17155.0,18,2,251.7,3,Champions
+17155.0,18,2,251.70000000000002,3,Champions
 17157.0,8,2,319.0,3,Champions
 17158.0,32,3,1266.97,3,Champions
 17159.0,22,3,1538.88,3,Champions
@@ -3538,12 +3538,12 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17176.0,202,1,306.13,1,At Risk
 17179.0,178,3,711.79,1,At Risk
 17180.0,56,4,796.03,3,Champions
-17181.0,57,2,239.92,3,Champions
+17181.0,57,2,239.92000000000002,3,Champions
 17183.0,8,6,3347.31,3,Champions
 17186.0,47,2,144.0,3,Champions
 17187.0,227,1,203.95,1,At Risk
 17188.0,11,7,2474.23,3,Champions
-17189.0,106,2,384.4,3,Champions
+17189.0,106,2,384.40000000000003,3,Champions
 17190.0,59,2,444.74,3,Champions
 17191.0,28,7,2095.13,3,Champions
 17193.0,36,7,1699.3000000000002,3,Champions
@@ -3558,7 +3558,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17211.0,27,8,2317.2200000000003,3,Champions
 17212.0,253,1,226.85,1,At Risk
 17213.0,40,7,2781.23,3,Champions
-17214.0,60,6,1069.12,3,Champions
+17214.0,60,6,1069.1200000000001,3,Champions
 17217.0,234,1,113.5,1,At Risk
 17218.0,4,10,1960.72,3,Champions
 17219.0,32,1,114.23,3,Champions
@@ -3574,7 +3574,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17231.0,12,10,3174.32,3,Champions
 17232.0,3,2,421.52,3,Champions
 17233.0,35,1,190.88,3,Champions
-17234.0,183,1,149.89,1,At Risk
+17234.0,183,1,149.89000000000001,1,At Risk
 17235.0,25,2,550.06,3,Champions
 17236.0,13,6,916.13,3,Champions
 17237.0,11,2,314.69,3,Champions
@@ -3594,17 +3594,17 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17255.0,41,2,298.41,3,Champions
 17256.0,107,2,240.0,3,Champions
 17259.0,148,2,603.37,1,At Risk
-17262.0,52,5,1253.36,3,Champions
+17262.0,52,5,1253.3600000000001,3,Champions
 17263.0,208,1,63.440000000000005,1,At Risk
 17265.0,139,2,562.9,3,Champions
 17266.0,2,3,310.64,3,Champions
 17267.0,127,2,317.62,3,Champions
 17268.0,108,4,763.64,3,Champions
 17272.0,42,4,2148.63,3,Champions
-17274.0,35,1,111.98,3,Champions
-17277.0,228,2,1065.35,1,At Risk
+17274.0,35,1,111.97999999999999,3,Champions
+17277.0,228,2,1065.3500000000001,1,At Risk
 17278.0,241,1,246.04,1,At Risk
-17279.0,58,1,187.83,3,Champions
+17279.0,58,1,187.82999999999998,3,Champions
 17282.0,130,3,1703.41,3,Champions
 17284.0,60,6,1652.58,3,Champions
 17286.0,22,1,153.92,3,Champions
@@ -3613,7 +3613,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17289.0,32,3,944.41,3,Champions
 17290.0,4,2,525.24,3,Champions
 17291.0,308,1,550.8000000000001,1,At Risk
-17293.0,8,9,1875.11,3,Champions
+17293.0,8,9,1875.1100000000001,3,Champions
 17295.0,29,3,556.95,3,Champions
 17297.0,17,1,131.78,3,Champions
 17298.0,101,2,498.42,3,Champions
@@ -3629,7 +3629,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17314.0,25,8,2527.92,3,Champions
 17315.0,2,38,6292.26,0,Lost Customers
 17317.0,46,3,2600.34,3,Champions
-17320.0,100,3,1200.62,3,Champions
+17320.0,100,3,1200.6200000000001,3,Champions
 17321.0,8,2,700.86,3,Champions
 17323.0,15,7,921.07,3,Champions
 17324.0,18,4,990.23,3,Champions
@@ -3639,7 +3639,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17331.0,124,1,175.2,3,Champions
 17333.0,86,1,494.25,3,Champions
 17334.0,302,2,307.02,1,At Risk
-17337.0,151,4,2027.87,1,At Risk
+17337.0,151,4,2027.8700000000001,1,At Risk
 17338.0,17,8,6643.93,3,Champions
 17339.0,94,2,243.36,3,Champions
 17340.0,30,11,12353.29,0,Lost Customers
@@ -3686,7 +3686,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17389.0,1,34,31833.68,0,Lost Customers
 17391.0,164,2,508.8,1,At Risk
 17392.0,307,2,457.91,1,At Risk
-17394.0,219,1,203.87,1,At Risk
+17394.0,219,1,203.86999999999998,1,At Risk
 17396.0,39,8,7330.8,3,Champions
 17397.0,22,2,696.41,3,Champions
 17398.0,115,3,653.38,3,Champions
@@ -3704,7 +3704,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17414.0,44,2,778.0,3,Champions
 17415.0,80,1,507.84,3,Champions
 17416.0,30,7,6893.42,3,Champions
-17418.0,42,2,463.46,3,Champions
+17418.0,42,2,463.46000000000004,3,Champions
 17419.0,11,12,4226.57,3,Champions
 17420.0,50,3,598.83,3,Champions
 17422.0,16,6,1979.37,3,Champions
@@ -3717,11 +3717,11 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17430.0,33,2,265.76,3,Champions
 17431.0,313,1,403.3,1,At Risk
 17432.0,18,2,365.76,3,Champions
-17433.0,88,1,303.16,3,Champions
+17433.0,88,1,303.15999999999997,3,Champions
 17434.0,2,7,2373.82,3,Champions
-17436.0,2,2,216.3,3,Champions
-17438.0,254,1,388.4500000000001,1,At Risk
-17440.0,157,3,186.42,1,At Risk
+17436.0,2,2,216.29999999999998,3,Champions
+17438.0,254,1,388.45000000000005,1,At Risk
+17440.0,157,3,186.42000000000002,1,At Risk
 17442.0,37,6,2248.56,3,Champions
 17443.0,220,1,534.24,1,At Risk
 17444.0,148,3,2940.04,3,Champions
@@ -3730,7 +3730,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17449.0,2,7,2520.86,3,Champions
 17450.0,8,46,194550.79,2,Loyal Customers
 17451.0,1,7,1721.4,3,Champions
-17453.0,18,2,486.72,3,Champions
+17453.0,18,2,486.71999999999997,3,Champions
 17454.0,192,4,517.53,1,At Risk
 17455.0,204,1,131.7,1,At Risk
 17456.0,365,1,249.86,1,At Risk
@@ -3764,7 +3764,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17501.0,221,2,288.6,1,At Risk
 17502.0,9,4,689.1,3,Champions
 17503.0,3,2,558.96,3,Champions
-17504.0,206,9,2997.03,1,At Risk
+17504.0,206,9,2997.0299999999997,1,At Risk
 17505.0,162,2,1145.84,1,At Risk
 17506.0,76,1,302.2,3,Champions
 17507.0,262,2,605.58,1,At Risk
@@ -3772,7 +3772,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17509.0,58,8,6115.14,3,Champions
 17510.0,25,1,308.48,3,Champions
 17511.0,3,31,91062.38,2,Loyal Customers
-17512.0,29,10,2924.99,3,Champions
+17512.0,29,10,2924.9900000000002,3,Champions
 17513.0,72,1,513.2,3,Champions
 17514.0,128,1,208.65,3,Champions
 17515.0,31,4,639.02,3,Champions
@@ -3784,8 +3784,8 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17522.0,2,5,1070.71,3,Champions
 17523.0,11,4,652.74,3,Champions
 17524.0,361,1,145.0,1,At Risk
-17525.0,360,1,422.7000000000001,1,At Risk
-17526.0,5,4,1195.9,3,Champions
+17525.0,360,1,422.70000000000005,1,At Risk
+17526.0,5,4,1195.8999999999999,3,Champions
 17527.0,54,4,939.37,3,Champions
 17528.0,1,8,3628.5,3,Champions
 17530.0,1,10,2385.0,3,Champions
@@ -3821,7 +3821,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17574.0,243,1,185.65,1,At Risk
 17576.0,8,19,3622.68,0,Lost Customers
 17578.0,218,1,143.45999999999998,1,At Risk
-17579.0,5,3,448.9,3,Champions
+17579.0,5,3,448.90000000000003,3,Champions
 17580.0,253,3,215.72,1,At Risk
 17581.0,1,25,11045.04,0,Lost Customers
 17582.0,236,1,175.27,1,At Risk
@@ -3835,9 +3835,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17594.0,85,2,993.18,3,Champions
 17595.0,12,2,388.79,3,Champions
 17596.0,23,7,2827.93,3,Champions
-17597.0,214,1,2044.37,1,At Risk
+17597.0,214,1,2044.3700000000001,1,At Risk
 17600.0,18,1,161.67000000000002,3,Champions
-17601.0,239,1,116.01,1,At Risk
+17601.0,239,1,116.00999999999999,1,At Risk
 17602.0,2,6,5102.97,3,Champions
 17603.0,78,1,394.72,3,Champions
 17604.0,217,2,309.36,1,At Risk
@@ -3858,7 +3858,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17625.0,18,4,2047.0,3,Champions
 17628.0,81,1,75.75,3,Champions
 17629.0,6,8,1814.12,3,Champions
-17630.0,170,2,503.6,1,At Risk
+17630.0,170,2,503.59999999999997,1,At Risk
 17631.0,2,3,528.33,3,Champions
 17633.0,31,4,1324.84,3,Champions
 17634.0,36,9,2361.9700000000003,3,Champions
@@ -3898,7 +3898,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17676.0,4,6,1387.68,3,Champions
 17677.0,2,30,16363.23,0,Lost Customers
 17678.0,264,1,298.11,1,At Risk
-17679.0,53,2,1992.11,3,Champions
+17679.0,53,2,1992.1100000000001,3,Champions
 17680.0,24,1,184.4,3,Champions
 17682.0,10,6,2474.33,3,Champions
 17684.0,44,1,239.41,3,Champions
@@ -3992,9 +3992,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17805.0,74,1,512.31,3,Champions
 17806.0,11,1,546.04,3,Champions
 17809.0,16,12,5411.91,3,Champions
-17811.0,4,39,7837.73,0,Lost Customers
+17811.0,4,39,7837.7300000000005,0,Lost Customers
 17812.0,13,4,732.16,3,Champions
-17813.0,14,5,1770.88,3,Champions
+17813.0,14,5,1770.8799999999999,3,Champions
 17816.0,37,4,36.56,3,Champions
 17817.0,4,3,387.68,3,Champions
 17819.0,72,7,3704.87,3,Champions
@@ -4006,15 +4006,15 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17831.0,33,1,35.400000000000006,3,Champions
 17832.0,50,1,155.37,3,Champions
 17835.0,3,3,350.64,3,Champions
-17836.0,47,1,110.21,3,Champions
+17836.0,47,1,110.21000000000001,3,Champions
 17837.0,42,8,1593.38,3,Champions
 17838.0,27,5,2779.3,3,Champions
 17839.0,42,1,338.8,3,Champions
 17841.0,2,124,40991.57,2,Loyal Customers
 17843.0,303,1,205.48,1,At Risk
-17844.0,107,1,51.56,3,Champions
+17844.0,107,1,51.559999999999995,3,Champions
 17846.0,85,1,2033.1,3,Champions
-17848.0,81,9,901.2,3,Champions
+17848.0,81,9,901.1999999999999,3,Champions
 17849.0,218,4,605.8000000000001,1,At Risk
 17850.0,372,34,5391.21,0,Lost Customers
 17852.0,12,2,114.34,3,Champions
@@ -4031,7 +4031,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17864.0,13,3,597.5,3,Champions
 17865.0,31,20,10526.32,0,Lost Customers
 17866.0,143,1,329.65,3,Champions
-17867.0,30,6,1197.1,3,Champions
+17867.0,30,6,1197.1000000000001,3,Champions
 17869.0,107,5,428.18,3,Champions
 17870.0,2,12,1894.35,3,Champions
 17871.0,205,1,155.9,1,At Risk
@@ -4050,7 +4050,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17888.0,21,8,726.05,3,Champions
 17889.0,212,2,203.87,1,At Risk
 17890.0,323,2,602.09,1,At Risk
-17891.0,162,1,203.86,1,At Risk
+17891.0,162,1,203.85999999999999,1,At Risk
 17892.0,56,3,244.1,3,Champions
 17893.0,225,1,112.25,1,At Risk
 17894.0,72,8,1119.81,3,Champions
@@ -4059,7 +4059,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17897.0,173,3,566.6,1,At Risk
 17898.0,85,2,152.06,3,Champions
 17899.0,159,1,155.8,1,At Risk
-17900.0,190,2,112.2,1,At Risk
+17900.0,190,2,112.19999999999999,1,At Risk
 17901.0,29,1,110.38,3,Champions
 17904.0,21,1,191.67,3,Champions
 17905.0,71,4,800.24,3,Champions
@@ -4095,7 +4095,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17948.0,147,1,358.56000000000006,1,At Risk
 17949.0,1,45,58510.48,0,Lost Customers
 17950.0,72,3,482.2,3,Champions
-17951.0,40,3,1008.54,3,Champions
+17951.0,40,3,1008.5400000000001,3,Champions
 17954.0,5,12,2332.72,3,Champions
 17955.0,199,4,557.3,1,At Risk
 17956.0,249,1,12.75,1,At Risk
@@ -4117,7 +4117,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17975.0,15,13,4488.81,3,Champions
 17976.0,372,1,353.19,1,At Risk
 17977.0,29,1,288.14,3,Champions
-17978.0,365,1,300.92,1,At Risk
+17978.0,365,1,300.91999999999996,1,At Risk
 17979.0,36,4,757.71,3,Champions
 17980.0,166,3,811.45,1,At Risk
 17984.0,145,1,152.68,1,At Risk
@@ -4129,7 +4129,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 17991.0,225,2,93.35,1,At Risk
 17994.0,122,4,678.49,3,Champions
 17995.0,282,1,76.1,1,At Risk
-17997.0,74,8,1970.67,3,Champions
+17997.0,74,8,1970.6699999999998,3,Champions
 17999.0,37,2,382.06,3,Champions
 18001.0,12,2,417.23,3,Champions
 18004.0,362,1,169.47,1,At Risk
@@ -4138,7 +4138,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18008.0,70,9,2116.19,3,Champions
 18009.0,235,1,257.34,1,At Risk
 18010.0,257,1,174.8,1,At Risk
-18011.0,373,1,102.79,1,At Risk
+18011.0,373,1,102.78999999999999,1,At Risk
 18013.0,155,2,187.29,1,At Risk
 18014.0,28,1,166.42,3,Champions
 18015.0,4,1,120.03,3,Champions
@@ -4149,7 +4149,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18022.0,36,1,668.11,3,Champions
 18024.0,153,2,389.78,1,At Risk
 18027.0,99,1,115.31,3,Champions
-18030.0,4,2,230.65,3,Champions
+18030.0,4,2,230.64999999999998,3,Champions
 18032.0,334,1,73.5,1,At Risk
 18033.0,65,1,97.97,3,Champions
 18034.0,22,2,422.88,3,Champions
@@ -4175,20 +4175,20 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18065.0,6,14,2392.83,3,Champions
 18066.0,75,1,318.0,3,Champions
 18067.0,40,1,396.33,3,Champions
-18068.0,289,1,101.7,1,At Risk
+18068.0,289,1,101.69999999999999,1,At Risk
 18069.0,26,5,2036.67,3,Champions
 18071.0,258,2,453.0,1,At Risk
 18072.0,186,1,247.44,1,At Risk
-18073.0,114,12,3877.52,3,Champions
+18073.0,114,12,3877.5200000000004,3,Champions
 18074.0,374,1,489.6,1,At Risk
 18075.0,23,10,2611.75,3,Champions
-18077.0,8,11,2633.01,3,Champions
+18077.0,8,11,2633.0099999999998,3,Champions
 18078.0,217,2,336.13,1,At Risk
 18079.0,45,4,3651.97,3,Champions
 18080.0,19,2,1231.5,3,Champions
 18081.0,36,3,343.45,3,Champions
 18082.0,26,1,703.37,3,Champions
-18084.0,16,1,90.48,3,Champions
+18084.0,16,1,90.47999999999999,3,Champions
 18085.0,330,2,689.95,1,At Risk
 18086.0,274,1,101.34,1,At Risk
 18087.0,98,2,4055.7199999999993,3,Champions
@@ -4220,11 +4220,11 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18122.0,8,6,1826.21,3,Champions
 18123.0,24,2,589.4399999999999,3,Champions
 18125.0,30,4,1142.99,3,Champions
-18126.0,61,1,206.83,3,Champions
+18126.0,61,1,206.82999999999998,3,Champions
 18127.0,19,3,348.73,3,Champions
-18129.0,243,1,112.55,1,At Risk
+18129.0,243,1,112.55000000000001,1,At Risk
 18130.0,15,3,1059.39,3,Champions
-18133.0,212,1,931.5,1,At Risk
+18133.0,212,1,931.4999999999999,1,At Risk
 18135.0,29,5,681.9100000000001,3,Champions
 18136.0,63,3,784.33,3,Champions
 18138.0,295,1,152.65,1,At Risk
@@ -4234,7 +4234,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18144.0,8,12,2888.75,3,Champions
 18145.0,13,4,2861.55,3,Champions
 18146.0,141,2,160.35000000000002,3,Champions
-18147.0,46,2,179.33999999999995,3,Champions
+18147.0,46,2,179.33999999999997,3,Champions
 18149.0,51,3,612.0799999999999,3,Champions
 18150.0,32,3,566.58,3,Champions
 18151.0,135,2,653.35,3,Champions
@@ -4245,9 +4245,9 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18159.0,301,1,530.15,1,At Risk
 18160.0,57,2,638.0600000000001,3,Champions
 18161.0,15,5,1618.69,3,Champions
-18164.0,37,1,399.65,3,Champions
+18164.0,37,1,399.65000000000003,3,Champions
 18165.0,177,1,302.46000000000004,1,At Risk
-18167.0,23,3,1384.86,3,Champions
+18167.0,23,3,1384.8600000000001,3,Champions
 18168.0,176,6,1169.94,1,At Risk
 18169.0,61,1,202.65,3,Champions
 18170.0,33,3,980.31,3,Champions
@@ -4267,10 +4267,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18188.0,15,3,2001.04,3,Champions
 18189.0,78,2,1090.24,3,Champions
 18190.0,192,2,284.46000000000004,1,At Risk
-18191.0,262,1,207.8,1,At Risk
+18191.0,262,1,207.79999999999998,1,At Risk
 18192.0,72,1,957.97,3,Champions
 18193.0,165,1,243.76,1,At Risk
-18194.0,82,1,973.84,3,Champions
+18194.0,82,1,973.8399999999999,3,Champions
 18196.0,95,2,689.13,3,Champions
 18198.0,4,17,5425.56,0,Lost Customers
 18200.0,106,1,163.8,3,Champions
@@ -4282,7 +4282,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18210.0,2,6,2621.38,3,Champions
 18211.0,26,5,600.07,3,Champions
 18212.0,326,1,248.42,1,At Risk
-18213.0,237,1,232.48,1,At Risk
+18213.0,237,1,232.48000000000002,1,At Risk
 18215.0,89,1,299.34000000000003,3,Champions
 18216.0,31,1,481.75,3,Champions
 18217.0,29,2,621.75,3,Champions
@@ -4305,10 +4305,10 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18235.0,72,3,1796.48,3,Champions
 18236.0,30,6,882.24,3,Champions
 18237.0,3,5,987.1,3,Champions
-18239.0,219,5,1561.61,1,At Risk
+18239.0,219,5,1561.6100000000001,1,At Risk
 18240.0,46,1,422.58,3,Champions
 18241.0,10,17,2073.09,0,Lost Customers
-18242.0,72,4,2232.49,3,Champions
+18242.0,72,4,2232.4900000000002,3,Champions
 18245.0,7,7,2567.06,3,Champions
 18246.0,24,2,596.1,3,Champions
 18248.0,123,2,804.02,3,Champions
@@ -4322,7 +4322,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18260.0,173,6,2643.2000000000003,1,At Risk
 18261.0,43,2,324.24,3,Champions
 18262.0,140,1,149.48,3,Champions
-18263.0,26,3,1213.16,3,Champions
+18263.0,26,3,1213.1599999999999,3,Champions
 18265.0,72,2,801.51,3,Champions
 18268.0,134,1,25.5,3,Champions
 18269.0,366,1,168.6,1,At Risk
@@ -4333,7 +4333,7 @@ CustomerID,Recency,Frequency,Monetary,Segment,Segment_Label
 18276.0,44,1,335.86,3,Champions
 18277.0,58,1,110.38,3,Champions
 18278.0,74,1,173.9,3,Champions
-18280.0,278,1,180.6,1,At Risk
+18280.0,278,1,180.60000000000002,1,At Risk
 18281.0,181,1,80.82,1,At Risk
 18282.0,8,2,178.05,3,Champions
 18283.0,4,16,2094.88,0,Lost Customers
