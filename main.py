@@ -72,3 +72,78 @@ print("\nRFM Table:")
 print(rfm.head(10))
 rfm.to_csv("rfm_analysis.csv", index=False)
 print("RFM saved to rfm_analysis.csv ✅")
+
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+
+
+print("\nStarting Machine Learning - Customer Segmentation...")
+
+# Load RFM data
+rfm = pd.read_csv("rfm_analysis.csv")
+
+# Scale the data
+scaler = StandardScaler()
+rfm_scaled = scaler.fit_transform(rfm[["Recency", "Frequency", "Monetary"]])
+
+# KMeans Clustering - 4 customer segments
+kmeans = KMeans(n_clusters=4, random_state=42)
+rfm["Segment"] = kmeans.fit_predict(rfm_scaled)
+
+# Label segments
+segment_labels = {0: "Lost Customers", 1: "At Risk", 2: "Loyal Customers", 3: "Champions"}
+rfm["Segment_Label"] = rfm["Segment"].map(segment_labels)
+
+print("\nCustomer Segments:")
+print(rfm["Segment_Label"].value_counts())
+
+# Save results
+rfm.to_csv("customer_segments.csv", index=False)
+print("Segments saved to customer_segments.csv ✅")
+
+# Plot segments
+rfm["Segment_Label"].value_counts().plot(kind="bar", color=["red","orange","blue","green"])
+plt.title("Customer Segments")
+plt.xlabel("Segment")
+plt.ylabel("Number of Customers")
+plt.tight_layout()
+plt.savefig("customer_segments.png")
+plt.close()
+print("Segment chart saved ✅")
+
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+
+print("\nStarting Machine Learning - Customer Segmentation...")
+
+# Load RFM data
+rfm = pd.read_csv("rfm_analysis.csv")
+
+# Scale the data
+scaler = StandardScaler()
+rfm_scaled = scaler.fit_transform(rfm[["Recency", "Frequency", "Monetary"]])
+
+# KMeans Clustering - 4 customer segments
+kmeans = KMeans(n_clusters=4, random_state=42)
+rfm["Segment"] = kmeans.fit_predict(rfm_scaled)
+
+# Label segments
+segment_labels = {0: "Lost Customers", 1: "At Risk", 2: "Loyal Customers", 3: "Champions"}
+rfm["Segment_Label"] = rfm["Segment"].map(segment_labels)
+
+print("\nCustomer Segments:")
+print(rfm["Segment_Label"].value_counts())
+
+# Save results
+rfm.to_csv("customer_segments.csv", index=False)
+print("Segments saved to customer_segments.csv ✅")
+
+# Plot segments
+rfm["Segment_Label"].value_counts().plot(kind="bar", color=["red","orange","blue","green"])
+plt.title("Customer Segments")
+plt.xlabel("Segment")
+plt.ylabel("Number of Customers")
+plt.tight_layout()
+plt.savefig("customer_segments.png")
+plt.close()
+print("Segment chart saved ✅")
